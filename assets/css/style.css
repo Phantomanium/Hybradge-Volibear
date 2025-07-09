@@ -151,7 +151,29 @@ body, html {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
-body { background: #181b20; color: #eee; }
+body {
+  background: #181b20;
+  color: #eee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffe082;
+}
+
+p, li, span, div, td, th, label, input, textarea {
+  color: #eee;
+}
+
+a {
+  color: #7ecbff;
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  color: #ffe082;
+  text-decoration: underline;
+}
+
 @media (max-width: 700px) {
   .home-content {
     padding: 0.7rem 0.2rem 0.7rem 0.2rem;
