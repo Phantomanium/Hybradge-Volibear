@@ -1,0 +1,1172 @@
+{
+  "items": {
+    "AbyssalMask": { "src": "assets/items/Abyssal_Mask.webp", "alt": "Abyssal Mask", "price": null },
+    "ArchangelsStaff": { "src": "assets/items/Archangels_Staff.webp", "alt": "Archangel's Staff", "price": null },
+    "ArdentCenser": { "src": "assets/items/Ardent_Censer.webp", "alt": "Ardent Censer", "price": null },
+    "AxiomArc": { "src": "assets/items/Axiom_Arc.webp", "alt": "Axiom Arc", "price": null },
+    "BansheesVeil": { "src": "assets/items/Banshees_Veil.webp", "alt": "Banshee's Veil", "price": null },
+    "BlackCleaver": { "src": "assets/items/Black_Cleaver.webp", "alt": "Black Cleaver", "price": null },
+    "BlackfireTorch": { "src": "assets/items/Blackfire_Torch.webp", "alt": "Blackfire Torch", "price": null },
+    "BladeOfTheRuinedKing": { "src": "assets/items/Blade_of_the_Ruined_King.webp", "alt": "Blade of the Ruined King", "price": null },
+    "BloodlettersCurse": { "src": "assets/items/Bloodletters_Curse.webp", "alt": "Bloodletter's Curse", "price": null },
+    "Bloodthirster": { "src": "assets/items/Bloodthirster.webp", "alt": "Bloodthirster", "price": null },
+    "BootsOfLucidity": { "src": "assets/items/Boots_of_Lucidity.webp", "alt": "Boots of Lucidity", "price": null },
+    "BootsOfSwiftness": { "src": "assets/items/Boots_of_Swiftness.webp", "alt": "Boots of Swiftness", "price": null },
+    "ChempunkChainsword": { "src": "assets/items/Chempunk_Chainsword.webp", "alt": "Chempunk Chainsword", "price": null },
+    "CosmicDrive": { "src": "assets/items/Cosmic_Drive.webp", "alt": "Cosmic Drive", "price": null },
+    "Cryptbloom": { "src": "assets/items/Cryptbloom.webp", "alt": "Cryptbloom", "price": null },
+    "Dawncore": { "src": "assets/items/Dawncore.webp", "alt": "Dawncore", "price": null },
+    "DeadMansPlate": { "src": "assets/items/Dead_Mans_Plate.webp", "alt": "Dead Man's Plate", "price": null },
+    "DeathsDance": { "src": "assets/items/Deaths_Dance.webp", "alt": "Death's Dance", "price": null },
+    "DreamMaker": { "src": "assets/items/Dream_Maker.webp", "alt": "Dream Maker", "price": null },
+    "EchoesOfHelia": { "src": "assets/items/Echoes_of_Helia.webp", "alt": "Echoes of Helia", "price": null },
+    "Eclipse": { "src": "assets/items/Eclipse.webp", "alt": "Eclipse", "price": null },
+    "EdgeOfNight": { "src": "assets/items/Edge_of_Night.webp", "alt": "Edge of Night", "price": null },
+    "EssenceReaver": { "src": "assets/items/Essence_Reaver.webp", "alt": "Essence Reaver", "price": null },
+    "ExperimentalHexplate": { "src": "assets/items/Experimental_Hexplate.webp", "alt": "Experimental Hexplate", "price": null },
+    "Fimbulwinter": { "src": "assets/items/Fimbulwinter.webp", "alt": "Fimbulwinter", "price": null },
+    "ForceOfNature": { "src": "assets/items/Force_of_Nature.webp", "alt": "Force of Nature", "price": null },
+    "FrozenHeart": { "src": "assets/items/Frozen_Heart.webp", "alt": "Frozen Heart", "price": null },
+    "GuardianAngel": { "src": "assets/items/Guardian_Angel.webp", "alt": "Guardian Angel", "price": null },
+    "GuinsoosRageblade": { "src": "assets/items/Guinsoos_Rageblade.webp", "alt": "Guinsoo's Rageblade", "price": null },
+    "Heartsteel": { "src": "assets/items/Heartsteel.webp", "alt": "Heartsteel", "price": null },
+    "HextechRocketbelt": { "src": "assets/items/Hextech_Rocketbelt.webp", "alt": "Hextech Rocketbelt", "price": null },
+    "HollowRadiance": { "src": "assets/items/Hollow_Radiance.webp", "alt": "Hollow Radiance", "price": null },
+    "HorizonFocus": { "src": "assets/items/Horizon_Focus.webp", "alt": "Horizon Focus", "price": null },
+    "Hubris": { "src": "assets/items/Hubris.webp", "alt": "Hubris", "price": null },
+    "Hullbreaker": { "src": "assets/items/Hullbreaker.webp", "alt": "Hullbreaker", "price": null },
+    "IcebornGauntlet": { "src": "assets/items/Iceborn_Gauntlet.webp", "alt": "Iceborn Gauntlet", "price": null },
+    "ImmortalShieldbow": { "src": "assets/items/Immortal_Shieldbow.webp", "alt": "Immortal Shieldbow", "price": null },
+    "ImperialMandate": { "src": "assets/items/Imperial_Mandate.webp", "alt": "Imperial Mandate", "price": null },
+    "InfinityEdge": { "src": "assets/items/Infinity_Edge.webp", "alt": "Infinity Edge", "price": null },
+    "JakShoTheProtean": { "src": "assets/items/JakSho_The_Protean.webp", "alt": "Jak'Sho The Protean", "price": null },
+    "KaenicRookern": { "src": "assets/items/Kaenic_Rookern.webp", "alt": "Kaenic Rookern", "price": null },
+    "KnightsVow": { "src": "assets/items/Knights_Vow.webp", "alt": "Knight's Vow", "price": null },
+    "KrakenSlayer": { "src": "assets/items/Kraken_Slayer.webp", "alt": "Kraken Slayer", "price": null },
+    "LiandrysTorment": { "src": "assets/items/Liandrys_Torment.webp", "alt": "Liandry's Torment", "price": null },
+    "LichBane": { "src": "assets/items/Lich_Bane.webp", "alt": "Lich Bane", "price": null },
+    "LocketOfTheIronSolari": { "src": "assets/items/Locket_of_the_Iron_Solari.webp", "alt": "Locket of the Iron Solari", "price": null },
+    "LordDominiksRegards": { "src": "assets/items/Lord_Dominiks_Regards.webp", "alt": "Lord Dominik's Regards", "price": null },
+    "LudensCompanion": { "src": "assets/items/Ludens_Companion.webp", "alt": "Luden's Companion", "price": null },
+    "Malignance": { "src": "assets/items/Malignance.webp", "alt": "Malignance", "price": null },
+    "Manamune": { "src": "assets/items/Manamune.webp", "alt": "Manamune", "price": null },
+    "MawOfMalmortius": { "src": "assets/items/Maw_of_Malmortius.webp", "alt": "Maw of Malmortius", "price": null },
+    "MejaisSoulstealer": { "src": "assets/items/Mejais_Soulstealer.webp", "alt": "Mejai's Soulstealer", "price": null },
+    "MercurialScimitar": { "src": "assets/items/Mercurial_Scimitar.webp", "alt": "Mercurial Scimitar", "price": null },
+    "MercuryTreads": { "src": "assets/items/Mercury_Treads.webp", "alt": "Mercury Treads", "price": null },
+    "MikaelsBlessing": { "src": "assets/items/Mikaels_Blessing.webp", "alt": "Mikael's Blessing", "price": null },
+    "MoonstoneRenewer": { "src": "assets/items/Moonstone_Renewer.webp", "alt": "Moonstone Renewer", "price": null },
+    "Morellonomicon": { "src": "assets/items/Morellonomicon.webp", "alt": "Morellonomicon", "price": null },
+    "MortalReminder": { "src": "assets/items/Mortal_Reminder.webp", "alt": "Mortal Reminder", "price": null },
+    "Muramana": { "src": "assets/items/Muramana.webp", "alt": "Muramana", "price": null },
+    "NashorsTooth": { "src": "assets/items/Nashors_Tooth.webp", "alt": "Nashor's Tooth", "price": null },
+    "NavoriFlickerblade": { "src": "assets/items/Navori_Flickerblade.webp", "alt": "Navori Flickerblade", "price": null },
+    "Opportunity": { "src": "assets/items/Opportunity.webp", "alt": "Opportunity", "price": null },
+    "OverlordsBloodmail": { "src": "assets/items/Overlords_Bloodmail.webp", "alt": "Overlord's Bloodmail", "price": null },
+    "PhantomDancer": { "src": "assets/items/Phantom_Dancer.webp", "alt": "Phantom Dancer", "price": null },
+    "ProfaneHydra": { "src": "assets/items/Profane_Hydra.webp", "alt": "Profane Hydra", "price": null },
+    "RabadonsDeathcap": { "src": "assets/items/Rabadons_Deathcap.webp", "alt": "Rabadon's Deathcap", "price": null },
+    "RanduinsOmen": { "src": "assets/items/Randuins_Omen.webp", "alt": "Randuin's Omen", "price": null },
+    "RapidFirecannon": { "src": "assets/items/Rapid_Firecannon.webp", "alt": "Rapid Firecannon", "price": null },
+    "RavenousHydra": { "src": "assets/items/Ravenous_Hydra.webp", "alt": "Ravenous Hydra", "price": null },
+    "Redemption": { "src": "assets/items/Redemption.webp", "alt": "Redemption", "price": null },
+    "Riftmaker": { "src": "assets/items/Riftmaker.webp", "alt": "Riftmaker", "price": null },
+    "RodOfAges": { "src": "assets/items/Rod_of_Ages.webp", "alt": "Rod of Ages", "price": null },
+    "RunaansHurricane": { "src": "assets/items/Runaans_Hurricane.webp", "alt": "Runaan's Hurricane", "price": null },
+    "RylaisCrystalScepter": { "src": "assets/items/Rylais_Crystal_Scepter.webp", "alt": "Rylai's Crystal Scepter", "price": null },
+    "SeraphsEmbrace": { "src": "assets/items/Seraphs_Embrace.webp", "alt": "Seraph's Embrace", "price": null },
+    "SerpentsFang": { "src": "assets/items/Serpents_Fang.webp", "alt": "Serpent's Fang", "price": null },
+    "SeryldasGrudge": { "src": "assets/items/Seryldas_Grudge.webp", "alt": "Serylda's Grudge", "price": null },
+    "Shadowflame": { "src": "assets/items/Shadowflame.webp", "alt": "Shadowflame", "price": null },
+    "ShurelyasBattlesong": { "src": "assets/items/Shurelyas_Battlesong.webp", "alt": "Shurelya's Battlesong", "price": null },
+    "SolsticeSleigh": { "src": "assets/items/Solstice_Sleigh.webp", "alt": "Solstice Sleigh", "price": null },
+    "SpearOfShojin": { "src": "assets/items/Spear_of_Shojin.webp", "alt": "Spear of Shojin", "price": null },
+    "SpiritVisage": { "src": "assets/items/Spirit_Visage.webp", "alt": "Spirit Visage", "price": null },
+    "StaffOfFlowingWater": { "src": "assets/items/Staff_of_Flowing_Water.webp", "alt": "Staff of Flowing Water", "price": null },
+    "StatikkShiv": { "src": "assets/items/Statikk_Shiv.webp", "alt": "Statikk Shiv", "price": null },
+    "SteraksGage": { "src": "assets/items/Steraks_Gage.webp", "alt": "Sterak's Gage", "price": null },
+    "Stormsurge": { "src": "assets/items/Stormsurge.webp", "alt": "Stormsurge", "price": null },
+    "Stridebreaker": { "src": "assets/items/Stridebreaker.webp", "alt": "Stridebreaker", "price": null },
+    "SunderedSky": { "src": "assets/items/Sundered_Sky.webp", "alt": "Sundered Sky", "price": null },
+    "SunfireAegis": { "src": "assets/items/Sunfire_Aegis.webp", "alt": "Sunfire Aegis", "price": null },
+    "Terminus": { "src": "assets/items/Terminus.webp", "alt": "Terminus", "price": null },
+    "TheCollector": { "src": "assets/items/The_Collector.webp", "alt": "The Collector", "price": null },
+    "Thornmail": { "src": "assets/items/Thornmail.webp", "alt": "Thornmail", "price": null },
+    "TitanicHydra": { "src": "assets/items/Titanic_Hydra.webp", "alt": "Titanic Hydra", "price": null },
+    "Trailblazer": { "src": "assets/items/Trailblazer.webp", "alt": "Trailblazer", "price": null },
+    "TrinityForce": { "src": "assets/items/Trinity_Force.webp", "alt": "Trinity Force", "price": null },
+    "UmbralGlaive": { "src": "assets/items/Umbral_Glaive.webp", "alt": "Umbral Glaive", "price": null },
+    "UnendingDespair": { "src": "assets/items/Unending_Despair.webp", "alt": "Unending Despair", "price": null },
+    "VigilantWardstone": { "src": "assets/items/Vigilant_Wardstone.webp", "alt": "Vigilant Wardstone", "price": null },
+    "VoidStaff": { "src": "assets/items/Void_Staff.webp", "alt": "Void Staff", "price": null },
+    "VoltaicCyclosword": { "src": "assets/items/Voltaic_Cyclosword.webp", "alt": "Voltaic Cyclosword", "price": null },
+    "WarmogsArmor": { "src": "assets/items/Warmogs_Armor.webp", "alt": "Warmog's Armor", "price": null },
+    "WintersApproach": { "src": "assets/items/Winters_Approach.webp", "alt": "Winter's Approach", "price": null },
+    "WitsEnd": { "src": "assets/items/Wits_End.webp", "alt": "Wit's End", "price": null },
+    "YoumuusGhostblade": { "src": "assets/items/Youmuus_Ghostblade.webp", "alt": "Youmuu's Ghostblade", "price": null },
+    "YunTalWildarrows": { "src": "assets/items/Yun_Tal_Wildarrows.webp", "alt": "Yun Tal Wildarrows", "price": null },
+    "ZekesConvergence": { "src": "assets/items/Zekes_Convergence.webp", "alt": "Zeke's Convergence", "price": null },
+    "ZhonyasHourglass": { "src": "assets/items/Zhonyas_Hourglass.webp", "alt": "Zhonya's Hourglass", "price": null },
+    "PlatedSteelcaps": { "src": "assets/items/Plated_Steelcaps.webp", "alt": "Plated Steelcaps", "price": null }
+  },
+  "runes": {
+    "LethalTempo": { "src": "assets/runes/keystone/precision/52px-Lethal_Tempo_rune.webp", "alt": "Press the Attack", "class": "lee-keystone" },
+    "Triumph": { "src": "assets/runes/precision/slot1/52px-Triumph_rune.webp", "alt": "Triumph", "class": "lee-primary-rune" },
+    "LegendHaste": { "src": "assets/runes/precision/slot2/52px-Legend-_Haste_rune.webp", "alt": "Legend: Haste", "class": "lee-primary-rune" },
+    "LastStand": { "src": "assets/runes/precision/slot3/52px-Last_Stand_rune.webp", "alt": "Last Stand", "class": "lee-primary-rune" },
+    "Conditioning": { "src": "assets/runes/resolve/slot2/52px-Conditioning_rune.webp", "alt": "Celerity", "class": "lee-secondary-rune" },
+    "Unflinching": { "src": "assets/runes/resolve/slot3/52px-Unflinching_rune.webp", "alt": "Waterwalking", "class": "lee-secondary-rune" },
+    "MagicalFootwear": { "src": "assets/runes/inspiration/slot1/52px-Magical_Footwear_rune.webp", "alt": "Magical Footwear", "class": "lee-secondary-rune" },
+    "JackOfAllTrades": { "src": "assets/runes/inspiration/slot3/52px-Jack_of_All_Trades_rune.webp", "alt": "Glacial Hunter", "class": "lee-secondary-rune" },
+    "AttackSpeed": { "src": "assets/runes/shards/slot1/30px-Rune_shard_Attack_Speed.webp", "alt": "Adaptive Force", "class": "lee-shard" },
+    "AdaptiveForce": { "src": "assets/runes/shards/slot2/30px-Rune_shard_Adaptive_Force.webp", "alt": "Adaptive Force", "class": "lee-shard" },
+    "Health": { "src": "assets/runes/shards/slot3/30px-Rune_shard_Health.webp", "alt": "Health", "class": "lee-shard" }
+  },
+  "matchups": {
+    "Amumu": {
+    "name": "Amumu",
+    "portrait": "assets/champions/amumu/AmumuSquare.webp",
+      "portrait_match": "assets/champions/amumu/AmumuPortrait.webp",
+    "splash": "assets/champions/amumu/Skin_Splash_Classic_Amumu.webp",
+    "runesets": [
+      {
+        "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+        "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+      },
+      {
+        "label": "Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "SpiritVisage", "DeadMansPlate", "JakShoTheProtean"],
+          "adaptiveItems": ["SteraksGage", "OverlordsBloodmail", "IcebornGauntlet", "KaenicRookern", "Redemption"],
+        "explanation": "Aftershock and tank runes make you much harder to kill in teamfights and tower dives. Font of Life and Overgrowth provide extra sustain and scaling. Triumph and Legend: Haste from Precision secondary give you clutch healing and more spell casts. Use this setup when you need to frontline or survive heavy burst."
+      }
+    ],
+    "tips": [
+      "- Volibear is much stronger than Amumu early (pre-6). Abuse your faster clear and look for early fights or dragons.",
+      "- Merc Treads are crucial to reduce Amumu's CC.",
+      "- Take 3 points in Q before maxing W for easier trades.",
+      "- You can buffer W through Amumu's CC—cast it as you're being hit.",
+      "- Use R or Q to escape Amumu's ult or reposition in fights.",
+      "- In mid game, invade when enemy laners can't rotate. Extended fights favor you if you land multiple Ws.",
+      "- Deny Amumu's engage with Q, but don't overextend and get ulted solo.",
+      "- Only fight in your vision—use control wards and sweepers to avoid getting picked.",
+      "- In late game 5v5s, avoid straight teamfights. Look for skirmishes and play side lanes where you can outplay."
+    ]
+    },
+    "Bel'Veth": {
+      "name": "Bel'Veth",
+      "portrait": "assets/champions/belveth/BelvethSquare.webp",
+      "portrait_match": "assets/champions/belveth/BelVethPortrait.webp",
+      "splash": "assets/champions/belveth/Skin_Splash_Classic_Belveth.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Bel'Veth.",
+        "- Sample tip 2 for Bel'Veth."
+      ]
+    },
+    "Briar": {
+      "name": "Briar",
+      "portrait": "assets/champions/briar/BriarSquare.webp",
+      "portrait_match": "assets/champions/briar/BriarPortrait.webp",
+      "splash": "assets/champions/briar/Skin_Splash_Classic_Briar.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Briar.",
+        "- Sample tip 2 for Briar."
+      ]
+    },
+    "Diana": {
+      "name": "Diana",
+      "portrait": "assets/champions/diana/DianaSquare.webp",
+      "portrait_match": "assets/champions/diana/DianaPortrait.webp",
+      "splash": "assets/champions/diana/Skin_Splash_Classic_Diana.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Diana.",
+        "- Sample tip 2 for Diana."
+      ]
+    },
+    "Dr. Mundo": {
+      "name": "Dr. Mundo",
+      "portrait": "assets/champions/drmundo/Dr_MundoSquare.webp",
+      "portrait_match": "assets/champions/drmundo/Dr_MundoPortrait.webp",
+      "splash": "assets/champions/drmundo/Skin_Splash_Classic_Dr_Mundo.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Bel'Veth.",
+        "- Sample tip 2 for Bel'Veth."
+      ]
+    },
+    "Ekko": {
+      "name": "Ekko",
+      "portrait": "assets/champions/ekko/EkkoSquare.webp",
+      "portrait_match": "assets/champions/ekko/EkkoPortrait.webp",
+      "splash": "assets/champions/ekko/Skin_Splash_Classic_Ekko.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Ekko.",
+        "- Sample tip 2 for Ekko."
+      ]
+    },
+    "Elise": {
+      "name": "Elise",
+      "portrait": "assets/champions/elise/EliseSquare.webp",
+      "portrait_match": "assets/champions/elise/ElisePortrait.webp",
+      "splash": "assets/champions/elise/Skin_Splash_Classic_Elise.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Elise.",
+        "- Sample tip 2 for Elise."
+      ]
+    },
+    "Evelynn": {
+      "name": "Evelynn",
+      "portrait": "assets/champions/evelynn/EvelynnSquare.webp",
+      "portrait_match": "assets/champions/evelynn/EvelynnPortrait.webp",
+      "splash": "assets/champions/evelynn/Skin_Splash_Classic_Evelynn.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Evelynn.",
+        "- Sample tip 2 for Evelynn."
+      ]
+    },
+    "Fiddlesticks": {
+      "name": "Fiddlesticks",
+      "portrait": "assets/champions/fiddlesticks/FiddlesticksSquare.webp",
+      "portrait_match": "assets/champions/fiddlesticks/FiddlesticksPortrait.webp",
+      "splash": "assets/champions/fiddlesticks/Skin_Splash_Classic_Fiddlesticks.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Fiddlesticks.",
+        "- Sample tip 2 for Fiddlesticks."
+      ]
+    },
+    "Gragas": {
+      "name": "Gragas",
+      "portrait": "assets/champions/gragas/GragasSquare.webp",
+      "portrait_match": "assets/champions/gragas/GragasPortrait.webp",
+      "splash": "assets/champions/gragas/Skin_Splash_Classic_Gragas.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Gragas.",
+        "- Sample tip 2 for Gragas."
+      ]
+    },
+    "Graves": {
+      "name": "Graves",
+      "portrait": "assets/champions/graves/GravesSquare.webp",
+      "portrait_match": "assets/champions/graves/GravesPortrait.webp",
+      "splash": "assets/champions/graves/Skin_Splash_Classic_Graves.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Graves.",
+        "- Sample tip 2 for Graves."
+      ]
+    },
+    "Gwen": {
+      "name": "Gwen",
+      "portrait": "assets/champions/gwen/GwenSquare.webp",
+      "portrait_match": "assets/champions/gwen/GwenPortrait.webp",
+      "splash": "assets/champions/gwen/Skin_Splash_Classic_Gwen.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Gwen.",
+        "- Sample tip 2 for Gwen."
+      ]
+    },
+    "Hecarim": {
+      "name": "Hecarim",
+      "portrait": "assets/champions/hecarim/HecarimSquare.webp",
+      "portrait_match": "assets/champions/hecarim/HecarimPortrait.webp",
+      "splash": "assets/champions/hecarim/Skin_Splash_Classic_Hecarim.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Hecarim.",
+        "- Sample tip 2 for Hecarim."
+      ]
+    },
+    "Ivern": {
+      "name": "Ivern",
+      "portrait": "assets/champions/ivern/IvernSquare.webp",
+      "portrait_match": "assets/champions/ivern/IvernPortrait.webp",
+      "splash": "assets/champions/ivern/Skin_Splash_Classic_Ivern.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Ivern.",
+        "- Sample tip 2 for Ivern."
+      ]
+    },
+    "Jarvan IV": {
+      "name": "Jarvan IV",
+      "portrait": "assets/champions/jarvan/JarvanSquare.webp",
+      "portrait_match": "assets/champions/jarvan/JarvanPortrait.webp",
+      "splash": "assets/champions/jarvan/Skin_Splash_Classic_Jarvan.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Jarvan IV.",
+        "- Sample tip 2 for Jarvan IV."
+      ]
+    },
+    "Jax": {
+      "name": "Jax",
+      "portrait": "assets/champions/jax/JaxSquare.webp",
+      "portrait_match": "assets/champions/jax/JaxPortrait.webp",
+      "splash": "assets/champions/jax/Skin_Splash_Classic_Jax.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Jax.",
+        "- Sample tip 2 for Jax."
+      ]
+    },
+    "Karthus": {
+      "name": "Karthus",
+      "portrait": "assets/champions/karthus/KarthusSquare.webp",
+      "portrait_match": "assets/champions/karthus/KarthusPortrait.webp",
+      "splash": "assets/champions/karthus/Skin_Splash_Classic_Karthus.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Karthus.",
+        "- Sample tip 2 for Karthus."
+      ]
+    },
+    "Kayn": {
+      "name": "Kayn",
+      "portrait": "assets/champions/kayn/KaynSquare.webp",
+      "portrait_match": "assets/champions/kayn/KaynPortrait.webp",
+      "splash": "assets/champions/kayn/Skin_Splash_Classic_Kayn.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Kayn.",
+        "- Sample tip 2 for Kayn."
+      ]
+    },
+    "Kha'Zix": {
+      "name": "Kha'Zix",
+      "portrait": "assets/champions/khazix/KhazixSquare.webp",
+      "portrait_match": "assets/champions/khazix/KhazixPortrait.webp",
+      "splash": "assets/champions/khazix/Skin_Splash_Classic_Khazix.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Kha'Zix.",
+        "- Sample tip 2 for Kha'Zix."
+      ]
+    },
+    "Kindred": {
+      "name": "Kindred",
+      "portrait": "assets/champions/kindred/KindredSquare.webp",
+      "portrait_match": "assets/champions/kindred/KindredPortrait.webp",
+      "splash": "assets/champions/kindred/Skin_Splash_Classic_Kindred.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Kindred.",
+        "- Sample tip 2 for Kindred."
+      ]
+    },
+    "Lee Sin": {
+      "name": "Lee Sin",
+      "portrait": "assets/champions/leesin/Lee_SinSquare.webp",
+      "portrait_match": "assets/champions/leesin/Lee_SinPortrait.webp",
+      "splash": "assets/champions/leesin/Skin_Splash_Classic_Lee_Sin.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Lee Sin.",
+        "- Sample tip 2 for Lee Sin."
+      ]
+    },
+    "Lillia": {
+      "name": "Lillia",
+      "portrait": "assets/champions/lillia/LilliaSquare.webp",
+      "portrait_match": "assets/champions/lillia/LilliaPortrait.webp",
+      "splash": "assets/champions/lillia/Skin_Splash_Classic_Lillia.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Lillia.",
+        "- Sample tip 2 for Lillia."
+      ]
+    },
+    "Master Yi": {
+      "name": "Master Yi",
+      "portrait": "assets/champions/masteryi/Master_YiSquare.webp",
+      "portrait_match": "assets/champions/masteryi/Master_YiPortrait.webp",
+      "splash": "assets/champions/masteryi/Skin_Splash_Classic_Master_Yi.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Master Yi.",
+        "- Sample tip 2 for Master Yi."
+      ]
+    },
+    "Naafiri": {
+      "name": "Naafiri",
+      "portrait": "assets/champions/naafiri/NaafiriSquare.webp",
+      "portrait_match": "assets/champions/naafiri/NaafiriPortrait.webp",
+      "splash": "assets/champions/naafiri/Skin_Splash_Classic_Naafiri.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Naafir.",
+        "- Sample tip 2 for Naafir."
+      ]
+    },
+    "Nidalee": {
+      "name": "Nidalee",
+      "portrait": "assets/champions/nidalee/NidaleeSquare.webp",
+      "portrait_match": "assets/champions/nidalee/NidaleePortrait.webp",
+      "splash": "assets/champions/nidalee/Skin_Splash_Classic_Nidalee.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Nidalee.",
+        "- Sample tip 2 for Nidalee."
+      ]
+    },
+    "Nocturne": {
+      "name": "Nocturne",
+      "portrait": "assets/champions/nocturne/NocturneSquare.webp",
+      "portrait_match": "assets/champions/nocturne/NocturnePortrait.webp",
+      "splash": "assets/champions/nocturne/Skin_Splash_Classic_Nocturne.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Nocturne.",
+        "- Sample tip 2 for Nocturne."
+      ]
+    },
+    "Nunu": {
+      "name": "Nunu & Willump",
+      "portrait": "assets/champions/nunu/Nunu_&_WillumpSquare.webp",
+      "portrait_match": "assets/champions/nunu/Nunu_&_WillumpPortrait.webp",
+      "splash": "assets/champions/nunu/Skin_Splash_Classic_Nunu_&_Willump.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Nunu & Willump.",
+        "- Sample tip 2 for Nunu & Willump."
+      ]
+    },
+    "Pantheon": {
+      "name": "Pantheon",
+      "portrait": "assets/champions/pantheon/PantheonSquare.webp",
+      "portrait_match": "assets/champions/pantheon/PantheonPortrait.webp",
+      "splash": "assets/champions/pantheon/Skin_Splash_Classic_Pantheon.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Pantheon.",
+        "- Sample tip 2 for Pantheon."
+      ]
+    },
+    "Poppy": {
+      "name": "Poppy",
+      "portrait": "assets/champions/poppy/PoppySquare.webp",
+      "portrait_match": "assets/champions/poppy/PoppyPortrait.webp",
+      "splash": "assets/champions/poppy/Skin_Splash_Classic_Poppy.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Poppy.",
+        "- Sample tip 2 for Poppy."
+      ]
+    },
+    "Qiyana": {
+      "name": "Qiyana",
+      "portrait": "assets/champions/qiyana/QiyanaSquare.webp",
+      "portrait_match": "assets/champions/qiyana/QiyanaPortrait.webp",
+      "splash": "assets/champions/qiyana/Skin_Splash_Classic_Qiyana.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Qiyana.",
+        "- Sample tip 2 for Qiyana."
+      ]
+    },
+    "Rammus": {
+      "name": "Rammus",
+      "portrait": "assets/champions/rammus/RammusSquare.webp",
+      "portrait_match": "assets/champions/rammus/RammusPortrait.webp",
+      "splash": "assets/champions/rammus/Skin_Splash_Classic_Rammus.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Rammus.",
+        "- Sample tip 2 for Rammus."
+      ]
+    },
+    "Rek'Sai": {
+      "name": "Rek'Sai",
+      "portrait": "assets/champions/reksai/Rek'SaiSquare.webp",
+      "portrait_match": "assets/champions/reksai/RekSaiPortrait.webp",
+      "splash": "assets/champions/reksai/Skin_Splash_Classic_RekSai.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Graves.",
+        "- Sample tip 2 for Graves."
+      ]
+    },
+    "Rengar": {
+      "name": "Rengar",
+      "portrait": "assets/champions/rengar/RengarSquare.webp",
+      "portrait_match": "assets/champions/rengar/RengarPortrait.webp",
+      "splash": "assets/champions/rengar/Skin_Splash_Classic_Rengar.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Rengar.",
+        "- Sample tip 2 for Rengar."
+      ]
+    },
+    "Sejuani": {
+      "name": "Sejuani",
+      "portrait": "assets/champions/sejuani/SejuaniSquare.webp",
+      "portrait_match": "assets/champions/sejuani/SejuaniPortrait.webp",
+      "splash": "assets/champions/sejuani/Skin_Splash_Classic_Sejuani.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Sejuani.",
+        "- Sample tip 2 for Sejuani."
+      ]
+    },
+    "Shaco": {
+      "name": "Shaco",
+      "portrait": "assets/champions/shaco/ShacoSquare.webp",
+      "portrait_match": "assets/champions/shaco/ShacoPortrait.webp",
+      "splash": "assets/champions/shaco/Skin_Splash_Classic_Shaco.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Shaco.",
+        "- Sample tip 2 for Shaco."
+      ]
+    },
+    "Shyvana": {
+      "name": "Shyvana",
+      "portrait": "assets/champions/shyvana/ShyvanaSquare.webp",
+      "portrait_match": "assets/champions/shyvana/ShyvanaPortrait.webp",
+      "splash": "assets/champions/shyvana/Skin_Splash_Classic_Shyvana.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Shyvana.",
+        "- Sample tip 2 for Shyvana."
+      ]
+    },
+    "Skarner": {
+      "name": "Skarner",
+      "portrait": "assets/champions/skarner/SkarnerSquare.webp",
+      "portrait_match": "assets/champions/skarner/SkarnerPortrait.webp",
+      "splash": "assets/champions/skarner/Skin_Splash_Classic_Skarner.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Skarner.",
+        "- Sample tip 2 for Skarner."
+      ]
+    },
+    "Taliyah": {
+      "name": "Taliyah",
+      "portrait": "assets/champions/taliyah/TaliyahSquare.webp",
+      "portrait_match": "assets/champions/taliyah/TaliyahPortrait.webp",
+      "splash": "assets/champions/taliyah/Skin_Splash_Classic_Taliyah.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Taliyah.",
+        "- Sample tip 2 for Taliyah."
+      ]
+    },
+    "Talon": {
+      "name": "Talon",
+      "portrait": "assets/champions/talon/TalonSquare.webp",
+      "portrait_match": "assets/champions/talon/TalonPortrait.webp",
+      "splash": "assets/champions/talon/Skin_Splash_Classic_Talon.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Talon.",
+        "- Sample tip 2 for Talon."
+      ]
+    },
+    "Trundle": {
+      "name": "Trundle",
+      "portrait": "assets/champions/trundle/TrundleSquare.webp",
+      "portrait_match": "assets/champions/trundle/TrundlePortrait.webp",
+      "splash": "assets/champions/trundle/Skin_Splash_Classic_Trundle.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Trundle.",
+        "- Sample tip 2 for Trundle."
+      ]
+    },
+    "Udyr": {
+      "name": "Udyr",
+      "portrait": "assets/champions/udyr/UdyrSquare.webp",
+      "portrait_match": "assets/champions/udyr/UdyrPortrait.webp",
+      "splash": "assets/champions/udyr/Skin_Splash_Classic_Udyr.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Udyr.",
+        "- Sample tip 2 for Udyr."
+      ]
+    },
+    "Vi": {
+      "name": "Vi",
+      "portrait": "assets/champions/vi/ViSquare.webp",
+      "portrait_match": "assets/champions/vi/ViPortrait.webp",
+      "splash": "assets/champions/vi/Skin_Splash_Classic_Vi.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Vi.",
+        "- Sample tip 2 for Vi."
+      ]
+    },
+    "Viego": {
+      "name": "Viego",
+      "portrait": "assets/champions/viego/ViegoSquare.webp",
+      "portrait_match": "assets/champions/viego/ViegoPortrait.webp",
+      "splash": "assets/champions/viego/Skin_Splash_Classic_Viego.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Viego.",
+        "- Sample tip 2 for Viego."
+      ]
+    },
+    "Warwick": {
+      "name": "Warwick",
+      "portrait": "assets/champions/warwick/WarwickSquare.webp",
+      "portrait_match": "assets/champions/warwick/WarwickPortrait.webp",
+      "splash": "assets/champions/warwick/Skin_Splash_Classic_Warwick.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Warwick.",
+        "- Sample tip 2 for Warwick."
+      ]
+    },
+    "Wukong": {
+      "name": "Wukong",
+      "portrait": "assets/champions/wukong/WukongSquare.webp",
+      "portrait_match": "assets/champions/wukong/WukongPortrait.webp",
+      "splash": "assets/champions/wukong/Skin_Splash_Classic_Wukong.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Wukong.",
+        "- Sample tip 2 for Wukong."
+      ]
+    },
+    "Xin Zhao": {
+      "name": "Xin Zhao",
+      "portrait": "assets/champions/xinzhao/Xin_ZhaoSquare.webp",
+      "portrait_match": "assets/champions/xinzhao/Xin_ZhaoPortrait.webp",
+      "splash": "assets/champions/xinzhao/Skin_Splash_Classic_Xin_Zhao.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Xin Zhao.",
+        "- Sample tip 2 for Xin Zhao."
+      ]
+    },
+    "Zac": {
+      "name": "Zac",
+      "portrait": "assets/champions/zac/ZacSquare.webp",
+      "portrait_match": "assets/champions/zac/ZacPortrait.webp",
+      "splash": "assets/champions/zac/Skin_Splash_Classic_Zac.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Zac.",
+        "- Sample tip 2 for Zac."
+      ]
+    },
+    "Zed": {
+      "name": "Zed",
+      "portrait": "assets/champions/zed/ZedSquare.webp",
+      "portrait_match": "assets/champions/zed/ZedPortrait.webp",
+      "splash": "assets/champions/zed/Skin_Splash_Classic_Zed.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Zed.",
+        "- Sample tip 2 for Zed."
+      ]
+    },
+    "Zyra": {
+      "name": "Zyra",
+      "portrait": "assets/champions/zyra/ZyraSquare.webp",
+      "portrait_match": "assets/champions/zyra/ZyraPortrait.webp",
+      "splash": "assets/champions/zyra/Skin_Splash_Classic_Zyra.webp",
+      "runesets": [
+        {
+          "label": "Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Conditioning", "Unflinching"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        }
+      ],
+      "tips": [
+        "- Sample tip 1 for Zyra.",
+        "- Sample tip 2 for Zyra."
+      ]
+    }
+  }
+} 

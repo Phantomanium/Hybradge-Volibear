@@ -1,0 +1,233 @@
+/* Lee Sin Matchup Custom Rune Styling */
+
+.lee-runes-wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 2.5rem 0 1.5rem 0;
+}
+.lee-runes-row {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0;
+}
+.lee-primary-tree {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  margin-right: 0;
+  position: relative;
+}
+.lee-primary-tree .rune-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+  margin-bottom: 0.2rem;
+}
+.lee-primary-tree .lee-keystone {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 20px 4px #000a;
+  margin-bottom: 0.2rem;
+}
+.lee-secondary-tree {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  position: absolute;
+  left: 54px;
+  top: 54px;
+}
+.lee-secondary-tree .rune-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+  margin-bottom: 0.2rem;
+}
+.lee-shards-row {
+  position: absolute;
+  left: 100px;
+  top: 220px;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  margin: 0;
+}
+.lee-shard-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 6px 1px #0007;
+}
+@media (max-width: 600px) {
+  .lee-runes-row {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .lee-secondary-tree {
+    position: static;
+    left: 0;
+    top: 0;
+    margin-top: 0.5rem;
+  }
+  .lee-shards-row {
+    position: static;
+    left: 0;
+    top: 0;
+    margin-top: 0.5rem;
+    justify-content: center;
+  }
+}
+
+.lee-runes-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2.2rem;
+}
+.lee-primary-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+}
+.lee-secondary-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.1rem;
+  margin-top: calc(84px + 0.7rem);
+}
+.lee-secondary-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.lee-keystone {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: none;
+}
+.lee-primary-rune {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+}
+.lee-secondary-rune {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+}
+.lee-shards-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 0.7rem;
+  margin-top: 1.2rem;
+  margin-left: 0;
+}
+.lee-shard {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 6px 1px #0007;
+}
+@media (max-width: 600px) {
+  .lee-runes-flex {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .lee-secondary-col {
+    margin-top: 0.5rem;
+  }
+  .lee-shards-flex {
+    margin-left: 0;
+    justify-content: center;
+  }
+}
+
+.lee-rune-explanation {
+  flex: 1;
+  margin-left: 1.5rem;
+  background: rgba(24, 24, 28, 0.85);
+  color: #f3f3f3;
+  border-radius: 14px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 2px 16px 0 #0006;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+  max-width: none;
+}
+.lee-rune-explanation h3 {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  font-size: 1.2rem;
+  color: #ffe082;
+  font-weight: 600;
+}
+@media (max-width: 900px) {
+  .lee-runes-flex {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .lee-rune-explanation {
+    margin-left: 0;
+    margin-top: 1.5rem;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+}
+
+.home-content.minimal {
+  background: rgba(24,24,28,0.65); /* more transparent */
+  max-width: 370px;
+  padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+  box-shadow: 0 2px 16px #0006;
+}
+.splash-tagline {
+  font-size: 1.1rem;
+  color: #ffe082;
+  margin: 1.1rem 0 1.7rem 0;
+  font-weight: 500;
+  text-shadow: 0 2px 8px #0008;
+}
+
+.matchup-bg {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(rgba(18,18,22,0.82), rgba(18,18,22,0.82)), url('../assets/champions/leesin/Skin_Splash_Classic_Lee_Sin.webp') center center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

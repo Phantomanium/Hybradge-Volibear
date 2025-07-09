@@ -1,0 +1,198 @@
+.runeset-tabs {
+  display: flex;
+  gap: 0.7rem;
+  margin-bottom: 1.1rem;
+  justify-content: flex-start;
+}
+.runeset-tab {
+  background: rgba(36, 36, 44, 0.85);
+  color: #ffe082;
+  border: none;
+  border-radius: 8px;
+  padding: 0.45rem 1.2rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s, color 0.18s;
+  outline: none;
+}
+.runeset-tab.active, .runeset-tab:hover {
+  background: #ffe082;
+  color: #181818;
+}
+.lee-runes-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2.2rem;
+}
+.lee-primary-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+}
+.lee-secondary-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.runes-columns-vertical {
+  display: flex;
+  flex-direction: row;
+  gap: 2.2rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+.lee-secondary-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.1rem;
+}
+.lee-shards-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 0.7rem;
+  margin-top: 1.5rem;
+  justify-content: center;
+}
+.lee-keystone {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: none;
+}
+.lee-primary-rune {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+}
+.lee-secondary-rune {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+}
+.lee-shard {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 6px 1px #0007;
+}
+.lee-rune-explanation, .tips-container {
+  margin-top: 2.2rem;
+  margin-bottom: 0;
+  background: rgba(24, 24, 28, 0.85);
+  color: #f3f3f3;
+  border-radius: 14px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 2px 16px 0 #0006;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  width: 100%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lee-rune-explanation h3, .tips-container h2 {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  font-size: 1.2rem;
+  color: #ffe082;
+  font-weight: 600;
+}
+.compact-flex-row {
+  display: flex;
+  flex-direction: row;
+  gap: 2.2rem;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+@media (max-width: 900px) {
+  .lee-runes-flex {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .lee-secondary-col {
+    margin-top: 0.5rem;
+  }
+  .lee-shards-flex {
+    margin-left: 0;
+    justify-content: center;
+  }
+  .lee-rune-explanation {
+    margin-left: 0;
+    margin-top: 1.5rem;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+}
+.runes-container, .items-col {
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  margin-bottom: 0;
+  min-width: 0;
+  width: auto;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.runes-items-merged-container {
+  background: rgba(24,24,28,0.82);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1.2rem 1.2rem;
+  box-shadow: 0 2px 12px #0005;
+  box-sizing: border-box;
+  margin-bottom: 1.2rem;
+  min-width: 180px;
+  width: fit-content;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.runes-items-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 2.2rem;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.runes-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.items-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.divider-vertical {
+  width: 2px;
+  min-height: 120px;
+  background: linear-gradient(to bottom, #333 10%, #555 50%, #333 90%);
+  border-radius: 2px;
+  margin: 0 1.5rem;
+  align-self: stretch;
+  opacity: 0.55;
+} 

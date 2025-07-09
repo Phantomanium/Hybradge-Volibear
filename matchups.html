@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Volibear Jungle Matchups</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div class="champion-grid" id="champion-container">
+    <!-- Champion cards will be generated here -->
+  </div>
+  <a href="index.html" class="back-link">&larr; Back to Home</a>
+  <script>
+    // Generate champion cards dynamically
+    fetch('assets/data/matchups.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('champion-container');
+        
+        Object.keys(data.matchups).forEach(champKey => {
+          const champ = data.matchups[champKey];
+          const cardDiv = document.createElement('div');
+          cardDiv.className = 'portrait-card';
+          cardDiv.innerHTML = `
+            <a class="champion-card" href="matchup.html?champ=${champKey}">
+              <img src="${champ.portrait_match}" alt="${champ.name}" class="champion-portrait">
+            </a>
+          `;
+          container.appendChild(cardDiv);
+        });
+      })
+      .catch(error => {
+        console.error('Error loading champion data:', error);
+        // Fallback to show at least one champion if there's an error
+        const container = document.getElementById('champion-container');
+        container.innerHTML = `
+          <div class="portrait-card">
+            <a class="champion-card" href="matchup.html?champ=Amumu">
+              <img src="assets/champions/amumu/AmumuPortrait.webp" alt="Amumu" class="champion-portrait">
+            </a>
+          </div>
+        `;
+      });
+  </script>
+  <!-- Bottom gradient and legal disclaimer -->
+  <div class="bottom-cover-legal">
+    <span class="legal-disclaimer">League of Legends and all associated assets are © Riot Games, Inc. This site is not endorsed by or affiliated with Riot Games in any way.</span>
+  </div>
+</body>
+</html> 

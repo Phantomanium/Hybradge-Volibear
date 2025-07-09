@@ -1,0 +1,459 @@
+/* Custom styles for Volibear Jungle Guide */
+
+.champion-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 1rem 0;
+  width: 100%;
+  box-sizing: border-box;
+  max-height: 80vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #888 #222;
+  margin-top: 5.5rem;
+}
+
+.champion-grid::-webkit-scrollbar {
+  width: 10px;
+}
+.champion-grid::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 6px;
+}
+.champion-grid::-webkit-scrollbar-track {
+  background: #222;
+  border-radius: 6px;
+}
+
+.champion-card {
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  text-align: center;
+  transition: transform 0.1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.champion-card:hover {
+  transform: translateY(-10px) scale(1.1);
+}
+.champion-icon {
+  width: 96px;
+  height: 96px;
+  border-radius: 0;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border: none;
+  margin-bottom: 0;
+  background: #181818;
+}
+.rune-icon, .item-icon {
+  width: 32px;
+  height: 32px;
+  margin-right: 0.25rem;
+  vertical-align: middle;
+}
+.tips-list {
+  margin-top: 1rem;
+  padding-left: 1.2rem;
+}
+.champion-splash-bg {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  border-radius: 18px;
+  padding: 2.5rem 2rem 2rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 32px rgba(0,0,0,0.25);
+  overflow: hidden;
+}
+.champion-splash-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(20, 20, 20, 0.82);
+  z-index: 0;
+  border-radius: 18px;
+}
+.champion-detail-content {
+  position: relative;
+  z-index: 1;
+}
+.champion-portrait-detail {
+  width: 120px;
+  height: 120px;
+  border-radius: 16px;
+  border: none;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  background: #222;
+  object-fit: cover;
+}
+.home-splash-bg {
+  min-height: 100vh;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(rgba(18,18,22,0.68), rgba(18,18,22,0.68)), url('../splash.jpg') center center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.home-content {
+  background: rgba(24,24,28,0.55);
+  border-radius: 18px;
+  padding: 1.2rem 1.1rem 1.1rem 1.1rem;
+  box-shadow: 0 2px 16px #0006;
+  max-width: 340px;
+  width: 100%;
+  text-align: center;
+}
+.author-badge {
+  display: inline-block;
+  background: #1a1a1a;
+  color: #ffe082;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 0.4rem 1.1rem;
+  font-size: 1.1rem;
+  margin-bottom: 0.7rem;
+  letter-spacing: 0.02em;
+  box-shadow: 0 2px 8px #0005;
+}
+.challenger-tag {
+  color: #ff3b3b;
+  font-weight: 900;
+  font-size: 1.15rem;
+  letter-spacing: 0.03em;
+  margin-bottom: 1.2rem;
+  display: block;
+}
+.splash-tagline {
+  font-size: 1.05rem;
+  color: #ffe082;
+  margin: 1.1rem 0 1.3rem 0;
+  font-weight: 500;
+  text-shadow: 0 2px 8px #0008;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  min-height: auto !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+@media (max-width: 700px) {
+  .home-content {
+    padding: 0.7rem 0.2rem 0.7rem 0.2rem;
+    max-width: 98vw;
+  }
+}
+.champion-portrait {
+  width: 180px;
+  height: 270px;
+  object-fit: cover;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  background: none;
+  margin: 0;
+  display: block;
+}
+.matchup-bg {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(rgba(18,18,22,0.82), rgba(18,18,22,0.82)), url('assets/champions/leesin/Skin_Splash_Classic_Lee_Sin.webp') center center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.portrait-card {
+  background: rgba(24,24,28,0.65);
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #000a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  backdrop-filter: blur(4px);
+  flex: 0 0 auto;
+  margin: 0;
+}
+.back-link {
+  position: absolute;
+  left: 2vw;
+  top: 2vw;
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  background: rgba(36, 36, 44, 0.85);
+  color: #4ec3ff;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 1.08rem;
+  text-decoration: none;
+  box-shadow: 0 2px 8px #0004;
+  transition: background 0.18s, color 0.18s;
+}
+.back-link:hover {
+  background: #4ec3ff;
+  color: #181818;
+  text-decoration: none;
+}
+.center-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  scrollbar-width: thin;
+  scrollbar-color: #444 #222;
+}
+.container::-webkit-scrollbar {
+  width: 7px;
+  background: #222;
+  border-radius: 8px;
+}
+.container::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 8px;
+}
+.left-align {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.2rem;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 1.2rem;
+}
+.left-align h1 {
+  text-align: left;
+  margin: 0;
+}
+.left-align .champion-portrait-detail {
+  margin-bottom: 0;
+}
+
+/* --- Matchup Page Flex Layout --- */
+.matchup-flex-row {
+  display: flex;
+  flex-direction: row;
+  gap: 2.5rem;
+  width: 100%;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 2.2rem;
+}
+.runes-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.runes-row-sidebyside {
+  display: flex;
+  flex-direction: row;
+  gap: 2.8rem;
+  align-items: flex-start;
+  justify-content: center;
+  margin-bottom: 0.7rem;
+}
+.lee-primary-col, .lee-secondary-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+}
+.items-col {
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  background: rgba(24,24,28,0.82);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1.2rem 1.2rem;
+  box-shadow: 0 2px 12px #0005;
+  box-sizing: border-box;
+}
+.item-group {
+  margin-bottom: 1.1rem;
+  width: 100%;
+}
+.item-group-label {
+  color: #ffe082;
+  font-weight: 700;
+  font-size: 1.08rem;
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.01em;
+}
+.item-row {
+  display: flex;
+  flex-direction: row;
+  gap: 1.2rem;
+  justify-content: flex-start;
+  align-items: flex-end;
+  margin-bottom: 0.2rem;
+}
+.item-with-price {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 48px;
+}
+.item-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  background: #181818;
+  box-shadow: 0 2px 8px #0008;
+  border: 1.5px solid #222;
+  margin-bottom: 0.18rem;
+}
+.item-price {
+  color: #e6c36a;
+  font-size: 1.01rem;
+  font-weight: 600;
+  text-shadow: 0 1px 2px #000a;
+  margin-top: 0.1rem;
+}
+.explanation-row {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 2.2rem;
+}
+.lee-rune-explanation {
+  max-width: 700px;
+  width: 100%;
+}
+@media (max-width: 900px) {
+  .matchup-flex-row {
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: stretch;
+  }
+  .items-col {
+    width: 100%;
+    min-width: 0;
+    max-width: 100vw;
+  }
+}
+.lee-primary-col img,
+.lee-secondary-col img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  box-shadow: 0 0 8px 1px #000a;
+  margin-bottom: 0.2rem;
+}
+.runes-columns-vertical {
+  display: flex;
+  flex-direction: row;
+  gap: 1.2rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+.runes-shards-centered {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.7rem;
+}
+.runes-container {
+  background: rgba(24,24,28,0.82);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1.2rem 1.2rem;
+  box-shadow: 0 2px 12px #0005;
+  box-sizing: border-box;
+  margin-bottom: 1.2rem;
+  min-width: 180px;
+  width: fit-content;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tips-container {
+  background: rgba(24,24,28,0.82);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1.2rem 1.2rem;
+  box-shadow: 0 2px 12px #0005;
+  box-sizing: border-box;
+  margin-top: 2.2rem;
+  width: 100%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.compact-flex-row {
+  display: flex;
+  flex-direction: row;
+  gap: 1.2rem;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+.compact-runes {
+  padding: 0.7rem 0.8rem 0.8rem 0.8rem;
+  margin-bottom: 0;
+  min-width: 0;
+}
+.compact-items {
+  padding: 0.7rem 0.8rem 0.8rem 0.8rem;
+  margin-bottom: 0;
+  min-width: 0;
+}
+.compact-explanation {
+  margin-top: 1.1rem;
+}
+.runes-columns-vertical {
+  gap: 0.7rem;
+}
+.item-group {
+  margin-bottom: 0.7rem;
+}
+@media (max-width: 900px) {
+  .compact-flex-row {
+    flex-direction: column;
+    gap: 0.7rem;
+    align-items: stretch;
+  }
+  .compact-explanation {
+    margin-top: 0.7rem;
+  }
+}
+
+.bottom-cover-legal {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 70px;
+  background: linear-gradient(to top, #181b20 90%, transparent 100%);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.legal-disclaimer {
+  color: #aaa;
+  font-size: 0.95rem;
+  text-align: center;
+  margin-bottom: 12px;
+  width: 100vw;
+  pointer-events: auto;
+}
