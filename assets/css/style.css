@@ -151,6 +151,7 @@ body, html {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
+body { background: #181b20; color: #eee; }
 @media (max-width: 700px) {
   .home-content {
     padding: 0.7rem 0.2rem 0.7rem 0.2rem;

@@ -517,11 +517,11 @@
         "- Sample tip 2 for Kayn."
       ]
     },
-    "Kha'Zix": {
+    "KhaZix": {
       "name": "Kha'Zix",
-      "portrait": "assets/champions/khazix/KhazixSquare.webp",
+      "portrait": "assets/champions/khazix/KhaZixSquare.webp",
       "portrait_match": "assets/champions/khazix/KhazixPortrait.webp",
-      "splash": "assets/champions/khazix/Skin_Splash_Classic_Khazix.webp",
+      "splash": "assets/champions/khazix/Skin_Splash_Classic_KhaZix.webp",
       "runesets": [
         {
           "label": "Solo Frontline",
