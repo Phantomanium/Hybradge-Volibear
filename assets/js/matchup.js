@@ -99,7 +99,14 @@ fetch('assets/data/matchups.json')
         <div class="champion-detail-content center-content">
           <div class="left-align">
             <img src="${matchupData.portrait}" alt="${matchupData.name}" class="champion-portrait-detail">
-            <h1>${matchupData.name}</h1>
+            <h1>
+              ${matchupData.name}
+              ${matchupData.difficulty ? `
+                <span class="difficulty-badge difficulty-${matchupData.difficulty.toLowerCase()}">
+                  ${matchupData.difficulty}
+                </span>
+              ` : ''}
+            </h1>
           </div>
           ${renderRunesetTabs()}
           <div id="runeset-content">${renderRunesetContent(selectedRuneset)}</div>

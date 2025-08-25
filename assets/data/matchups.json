@@ -118,424 +118,782 @@
     "Unflinching": { "src": "assets/runes/resolve/slot3/52px-Unflinching_rune.webp", "alt": "Waterwalking", "class": "lee-secondary-rune" },
     "MagicalFootwear": { "src": "assets/runes/inspiration/slot1/52px-Magical_Footwear_rune.webp", "alt": "Magical Footwear", "class": "lee-secondary-rune" },
     "JackOfAllTrades": { "src": "assets/runes/inspiration/slot3/52px-Jack_of_All_Trades_rune.webp", "alt": "Glacial Hunter", "class": "lee-secondary-rune" },
+    "Celerity": { "src": "assets/runes/sorcery/slot2/52px-Celerity_rune.webp", "alt": "Celerity", "class": "lee-secondary-rune" },
+    "Waterwalking": { "src": "assets/runes/sorcery/slot3/52px-Waterwalking_rune.webp", "alt": "Waterwalking", "class": "lee-secondary-rune" },  
     "AttackSpeed": { "src": "assets/runes/shards/slot1/30px-Rune_shard_Attack_Speed.webp", "alt": "Adaptive Force", "class": "lee-shard" },
     "AdaptiveForce": { "src": "assets/runes/shards/slot2/30px-Rune_shard_Adaptive_Force.webp", "alt": "Adaptive Force", "class": "lee-shard" },
     "Health": { "src": "assets/runes/shards/slot3/30px-Rune_shard_Health.webp", "alt": "Health", "class": "lee-shard" }
   },
   "matchups": {
     "Amumu": {
-    "name": "Amumu",
-    "portrait": "assets/champions/amumu/AmumuSquare.webp",
-      "portrait_match": "assets/champions/amumu/AmumuPortrait.webp",
-    "splash": "assets/champions/amumu/Skin_Splash_Classic_Amumu.webp",
-    "runesets": [
-      {
-        "label": "Solo Frontline",
-          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
-          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-        "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-      },
-      {
-        "label": "Damage Follow Up",
-          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
-          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["TrinityForce", "MercuryTreads", "SpiritVisage", "DeadMansPlate", "JakShoTheProtean"],
-          "adaptiveItems": ["SteraksGage", "OverlordsBloodmail", "IcebornGauntlet", "KaenicRookern", "Redemption"],
-        "explanation": "Aftershock and tank runes make you much harder to kill in teamfights and tower dives. Font of Life and Overgrowth provide extra sustain and scaling. Triumph and Legend: Haste from Precision secondary give you clutch healing and more spell casts. Use this setup when you need to frontline or survive heavy burst."
-      }
-    ],
-    "tips": [
-      "- Volibear is much stronger than Amumu early (pre-6). Abuse your faster clear and look for early fights or dragons.",
-      "- Merc Treads are crucial to reduce Amumu's CC.",
-      "- Take 3 points in Q before maxing W for easier trades.",
-      "- You can buffer W through Amumu's CC—cast it as you're being hit.",
-      "- Use R or Q to escape Amumu's ult or reposition in fights.",
-      "- In mid game, invade when enemy laners can't rotate. Extended fights favor you if you land multiple Ws.",
-      "- Deny Amumu's engage with Q, but don't overextend and get ulted solo.",
-      "- Only fight in your vision—use control wards and sweepers to avoid getting picked.",
-      "- In late game 5v5s, avoid straight teamfights. Look for skirmishes and play side lanes where you can outplay."
-    ]
+  "name": "Amumu",
+  "difficulty": "medium",
+  "portrait": "assets/champions/amumu/AmumuSquare.webp",
+  "portrait_match": "assets/champions/amumu/AmumuPortrait.webp",
+  "splash": "assets/champions/amumu/Skin_Splash_Classic_Amumu.webp",
+  "runesets": [
+    {
+      "label": "Solo Frontline",
+      "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+      "secondary": ["Conditioning", "Unflinching"],
+      "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+      "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+      "adaptiveItems": [
+        "RanduinsOmen",
+        "SteraksGage",
+        "OverlordsBloodmail",
+        "KaenicRookern",
+        "Redemption"
+      ],
+      "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity. Overlord's if you're up against burst and need more damage. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
     },
+    {
+      "label": "Damage Follow Up",
+      "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+      "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+      "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+      "coreItems": ["TrinityForce", "MercuryTreads", "SpiritVisage", "DeadMansPlate", "JakShoTheProtean"],
+      "adaptiveItems": [
+        "SteraksGage",
+        "OverlordsBloodmail",
+        "IcebornGauntlet",
+        "KaenicRookern",
+        "Redemption"
+      ],
+      "explanation": "You can go Dead Man's Plate before Visage if AP isn't a threat. Build Sterak's if you need tenacity, and Overlord's if you're up against burst and need more damage. Go Gauntlet for armor, Kaenic for magic resist, and Redemption if you're really behind and low on gold."
+    }
+  ],
+  "tips": [
+    "Skill upgrade: 3 points in Q, then W max",
+    "W can be buffered through CC — use this to apply damage even while stunned",
+    "Use R to buffer Amumu's Q or R and reposition during fights",
+    "Early: Abuse Amumu's weak early game. Clear faster, force fights early, and take early drake when possible.",
+    "Mid: Deny his engages by CCing him before he ults. Use vision to set up favorable fights and avoid face-checking.",
+    "Late: Avoid 5v5s, favor small skirmishes (1v1/2v2/3v3). Play sides and pick off targets with team vision control."
+  ]
+},
+
     "Bel'Veth": {
       "name": "Bel'Veth",
+      "difficulty": "easy",
       "portrait": "assets/champions/belveth/BelvethSquare.webp",
       "portrait_match": "assets/champions/belveth/BelVethPortrait.webp",
       "splash": "assets/champions/belveth/Skin_Splash_Classic_Belveth.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or VS Little CC",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "PlatedSteelcaps", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "RanduinsOmen", "FrozenHeart"],
+          "explanation": "Gauntlet second is almost always the best choice. Jak'Sho is a must-buy as your 4th or 5th item. Plated Steelcaps are ideal against Bel'Veth, but if they have no value against the rest of the enemy team, go Ionian Boots instead. You can skip Spirit Visage if the enemy is full AD—opt for Randuin's or Frozen Heart if you're facing multiple melee threats."
+        },
+        {
+          "label": "AD or VS More CC",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "SpiritVisage", "DeadMansPlate", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "RanduinsOmen", "FrozenHeart", "SpearOfShojin", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there's no AP threat. Randuin's (optimal) is great if both the ADC and Bel'Veth are fed, while Frozen Heart works well against multiple melee champs. Death's Dance is strong versus burst damage, and if you're snowballing, go for Shojin to dominate."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Bel'Veth.",
-        "- Sample tip 2 for Bel'Veth."
+        "Skill upgrade- 3 points in Q then W max, Q max, E max",
+        "Important Mechanics: W when CC is hitting you (you can buffer it and apply W through CC), Use R to buffer mumu ult or Q if you know it's hitting you and obtain better positioning.",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
+      ]
+    },
+    "Brand": {
+      "name": "Brand",
+      "difficulty": "medium",
+      "portrait": "assets/champions/brand/BrandSquare.webp",
+      "portrait_match": "assets/champions/brand/BrandPortrait.webp",
+      "splash": "assets/champions/brand/Skin_Splash_Classic_Brand.webp",
+      "runesets": [
+        {
+          "label": "AP or Solo Frontline",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["Celerity", "Waterwalking"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["NavoriFlickerblade", "BootsOfLucidity", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
+          "explanation": "Go Visage over Gauntlet if AP is a major threat. Take Ionian Boots instead of Mercs if the enemy has low AP. Flickerblade is only worth as a last item if you can consistently land hits. Abyssal Mask is solid if your team has 2 or more AP sources—otherwise, go Force of Nature."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "Redemption", "KaenicRookern"],
+          "explanation": "Merc Treads are OP against Brand. In most cases, build Spirit Visage before Dead Man’s unless the enemy team is heavy AD. Kaenic Rookern is excellent into heavy AP comps—which Brand is usually part of. If you want more damage, go Shojin; otherwise, Redemption is better to help deal with AoE damage."
+        }
+      ],
+      "tips": [
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Briar": {
       "name": "Briar",
+      "difficulty": "easy",
       "portrait": "assets/champions/briar/BriarSquare.webp",
       "portrait_match": "assets/champions/briar/BriarPortrait.webp",
       "splash": "assets/champions/briar/Skin_Splash_Classic_Briar.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "FrozenHeart"],
+          "explanation": "Your core 6 items are basically guaranteed every game. Thornmail is a bait pick—you can’t apply its passive consistently. Only build Plated Steelcaps if you’re getting stomped or the enemy has multiple AD threats."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "RanduinsOmen", "FrozenHeart", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there’s no AP threat. Spear of Shojin is the best option into Briar and can even be built before Visage if you're ahead. If you need more tankiness, Death’s Dance is a strong choice, or go Redemption to provide team support."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Briar.",
-        "- Sample tip 2 for Briar."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Diana": {
       "name": "Diana",
+      "difficulty": "easy",
       "portrait": "assets/champions/diana/DianaSquare.webp",
       "portrait_match": "assets/champions/diana/DianaPortrait.webp",
       "splash": "assets/champions/diana/Skin_Splash_Classic_Diana.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
+          "explanation": "Build Spirit Visage over Gauntlet if the enemy has heavy AP. Take Ionian Boots instead of Mercs if their magic damage is low. Flickerblade is a strong pick if you can consistently land hits—it can even be built before Jak’Sho. Abyssal Mask is great if your team has 2 or more AP champions; otherwise, go Force of Nature."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads",  "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["PlatedSteelcaps", "SpearOfShojin", "KaenicRookern", "DeathsDance", "Redemption"],
+          "explanation": "You can build Spear of Shojin before completing Spirit Visage if you need more damage. Kaenic Rookern is the best option into heavy AP comps, and Redemption is a decent alternative for utility. Death’s Dance and Plated Steelcaps are only worth building against heavy AD teams."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Diana.",
-        "- Sample tip 2 for Diana."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Dr. Mundo": {
       "name": "Dr. Mundo",
+      "difficulty": "hard",
       "portrait": "assets/champions/drmundo/Dr_MundoSquare.webp",
       "portrait_match": "assets/champions/drmundo/Dr_MundoPortrait.webp",
-      "splash": "assets/champions/drmundo/Skin_Splash_Classic_Dr_Mundo.webp",
+      "splash": "assets/champions/drmundo/Skin_Splash_Classic_Dr._Mundo.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["PlatedSteelcaps", "RanduinsOmen", "FrozenHeart"],
+          "explanation": "Your core 6-item build is nearly guaranteed every game. Thornmail is a bait—it’s hard to apply its passive effectively. Only build Plated Steelcaps if you’re getting stomped or facing multiple AD threats; otherwise, stick with Ionian Boots."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "DeathsDance", "Redemption"],
+          "explanation": "Spear of Shojin is your best item overall. If you're behind, Redemption is a solid last-item option for utility. You can build Shojin before finishing Spirit Visage if you need the extra damage early."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Bel'Veth.",
-        "- Sample tip 2 for Bel'Veth."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Ekko": {
       "name": "Ekko",
+      "difficulty": "hard",
       "portrait": "assets/champions/ekko/EkkoSquare.webp",
       "portrait_match": "assets/champions/ekko/EkkoPortrait.webp",
       "splash": "assets/champions/ekko/Skin_Splash_Classic_Ekko.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
+          "explanation": "Build Spirit Visage over Gauntlet if AP is a major threat. Take Ionian Boots over Mercs if you're ahead and don't need the tenacity. Flickerblade is only worth as a last item if you can consistently hit multiple enemies. Abyssal Mask is good if your team has 2 or more AP sources—otherwise, go Force of Nature."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Ekko.",
-        "- Sample tip 2 for Ekko."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Elise": {
       "name": "Elise",
+      "difficulty": "medium",
       "portrait": "assets/champions/elise/EliseSquare.webp",
       "portrait_match": "assets/champions/elise/ElisePortrait.webp",
       "splash": "assets/champions/elise/Skin_Splash_Classic_Elise.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
           "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Elise.",
-        "- Sample tip 2 for Elise."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Evelynn": {
       "name": "Evelynn",
+      "difficulty": "medium",
       "portrait": "assets/champions/evelynn/EvelynnSquare.webp",
       "portrait_match": "assets/champions/evelynn/EvelynnPortrait.webp",
       "splash": "assets/champions/evelynn/Skin_Splash_Classic_Evelynn.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
+          "explanation": "Build Spirit Visage over Gauntlet if AP is a major threat. Take Ionian Boots instead of Mercs if the enemy has low AP. Flickerblade is only worth as a last item if you can consistently land hits. Abyssal Mask is solid if your team has 2 or more AP sources—otherwise, go Force of Nature."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Evelynn.",
-        "- Sample tip 2 for Evelynn."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Fiddlesticks": {
       "name": "Fiddlesticks",
+      "difficulty": "medium",
       "portrait": "assets/champions/fiddlesticks/FiddlesticksSquare.webp",
       "portrait_match": "assets/champions/fiddlesticks/FiddlesticksPortrait.webp",
       "splash": "assets/champions/fiddlesticks/Skin_Splash_Classic_Fiddlesticks.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
           "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Fiddlesticks.",
-        "- Sample tip 2 for Fiddlesticks."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Gragas": {
       "name": "Gragas",
+      "difficulty": "easy",
       "portrait": "assets/champions/gragas/GragasSquare.webp",
       "portrait_match": "assets/champions/gragas/GragasPortrait.webp",
       "splash": "assets/champions/gragas/Skin_Splash_Classic_Gragas.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
           "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Gragas.",
-        "- Sample tip 2 for Gragas."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Graves": {
       "name": "Graves",
+      "difficulty": "medium",
       "portrait": "assets/champions/graves/GravesSquare.webp",
       "portrait_match": "assets/champions/graves/GravesPortrait.webp",
       "splash": "assets/champions/graves/Skin_Splash_Classic_Graves.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "FrozenHeart"],
+          "explanation": "Your core 6 items are basically guaranteed every game. Thornmail is a bait pick—you can’t apply its passive consistently. Only build Plated Steelcaps if you’re getting stomped or the enemy has multiple AD threats."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "RanduinsOmen", "FrozenHeart", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there’s no AP threat. Spear of Shojin is the best option into Briar and can even be built before Visage if you're ahead. If you need more tankiness, Death’s Dance is a strong choice, or go Redemption to provide team support."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Graves.",
-        "- Sample tip 2 for Graves."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Gwen": {
       "name": "Gwen",
+      "difficulty": "medium",
       "portrait": "assets/champions/gwen/GwenSquare.webp",
       "portrait_match": "assets/champions/gwen/GwenPortrait.webp",
       "splash": "assets/champions/gwen/Skin_Splash_Classic_Gwen.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
           "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Gwen.",
-        "- Sample tip 2 for Gwen."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Hecarim": {
       "name": "Hecarim",
+      "difficulty": "medium",
       "portrait": "assets/champions/hecarim/HecarimSquare.webp",
       "portrait_match": "assets/champions/hecarim/HecarimPortrait.webp",
       "splash": "assets/champions/hecarim/Skin_Splash_Classic_Hecarim.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["RanduinsOmen", "FrozenHeart"],
+          "explanation": "Your core 6 items are basically guaranteed every game. Thornmail is a bait pick—you can’t apply its passive consistently. Only build Plated Steelcaps if you’re getting stomped or the enemy has multiple AD threats."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "RanduinsOmen", "FrozenHeart", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there’s no AP threat. Spear of Shojin is the best option into Briar and can even be built before Visage if you're ahead. If you need more tankiness, Death’s Dance is a strong choice, or go Redemption to provide team support."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Hecarim.",
-        "- Sample tip 2 for Hecarim."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Ivern": {
       "name": "Ivern",
+      "difficulty": "hard",
       "portrait": "assets/champions/ivern/IvernSquare.webp",
       "portrait_match": "assets/champions/ivern/IvernPortrait.webp",
       "splash": "assets/champions/ivern/Skin_Splash_Classic_Ivern.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-        }
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "NavoriFlickerblade", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["Redemption"],
+          "explanation": "Your core 6-item build is nearly guaranteed every game. Thornmail is a bait—it’s hard to apply its passive effectively. Only build Plated Steelcaps if you’re getting stomped or facing multiple AD threats; otherwise, stick with Ionian Boots."},
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["PlatedSteelcaps", "SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are extremely valuable, especially against heavy CC. Dead Man’s Plate is important for dodging skillshots like Ivern’s Q and for sticking to targets. Spear of Shojin is the best option if you need damage—go Randuin’s or Redemption instead if you need tankiness. Kaenic Rookern is great into heavy AP comps. Avoid Serpent’s Fang—it’s a terrible fit for your kit."}
       ],
       "tips": [
-        "- Sample tip 1 for Ivern.",
-        "- Sample tip 2 for Ivern."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Jarvan IV": {
       "name": "Jarvan IV",
+      "difficulty": "medium",
       "portrait": "assets/champions/jarvan/JarvanSquare.webp",
       "portrait_match": "assets/champions/jarvan/JarvanPortrait.webp",
-      "splash": "assets/champions/jarvan/Skin_Splash_Classic_Jarvan.webp",
+      "splash": "assets/champions/jarvan/Skin_Splash_Classic_Jarvan_IV.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "Stand and Bang Frontline Tank",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-        }
+          "coreItems": ["BlackCleaver", "BootsOfLucidity", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["PlatedSteelcaps", "SpearOfShojin", "RanduinsOmen", "KaenicRookern", "Redemption"],
+          "explanation": "Core 5 items are practically guaranteed every game. Ionian Boots are better when you're ahead, while Steelcaps are a solid choice when behind. Build Spear of Shojin for damage; go Kaenic Rookern or Randuin’s for resistances. Redemption is a fine utility option if your team needs support." },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "RanduinsOmen", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are a fine choice, especially against physical damage. You can skip Spirit Visage if the enemy has no AP threats. Iceborn Gauntlet, Death’s Dance, and Randuin’s are all strong options depending on the situation—go Redemption if you're behind. Spear of Shojin remains the best pick if you need damage or you're ahead."}
       ],
       "tips": [
-        "- Sample tip 1 for Jarvan IV.",
-        "- Sample tip 2 for Jarvan IV."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Jax": {
       "name": "Jax",
+      "difficulty": "hard",
       "portrait": "assets/champions/jax/JaxSquare.webp",
       "portrait_match": "assets/champions/jax/JaxPortrait.webp",
       "splash": "assets/champions/jax/Skin_Splash_Classic_Jax.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-        }
+          "coreItems": ["CosmicDrive", "PlatedSteelcaps", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "RanduinsOmen", "FrozenHeart"],
+          "explanation": "Core items are solid, but in this matchup, Flickerblade should be swapped out for Frozen Heart. Plated Steelcaps are great overall, but if you're really far ahead, Ionian Boots can be a better choice. Randuin’s is a good substitute for Flickerblade if you're up against two or more crit-based champions."},
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["BlackCleaver", "BootsOfLucidity", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["PlatedSteelcaps", "SpearOfShojin", "RanduinsOmen", "KaenicRookern", "Redemption"],
+          "explanation": "Plated Steelcaps (Tabis) are a fine option, and you can skip Spirit Visage if the enemy has no AP threats. Iceborn Gauntlet is the best 6th item if Hecarim is a problem—you can even build it before Jak’Sho in that case. Spear of Shojin is still the best pick if you need damage or you're ahead."}
       ],
       "tips": [
-        "- Sample tip 1 for Jax.",
-        "- Sample tip 2 for Jax."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Karthus": {
       "name": "Karthus",
+      "difficulty": "medium",
       "portrait": "assets/champions/karthus/KarthusSquare.webp",
       "portrait_match": "assets/champions/karthus/KarthusPortrait.webp",
       "splash": "assets/champions/karthus/Skin_Splash_Classic_Karthus.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP or Solo Frontline",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
-          "secondary": ["Conditioning", "Unflinching"],
+          "secondary": ["Celerity", "Waterwalking"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
+          "coreItems": ["CosmicDrive", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["BootsOfLucidity", "NavoriFlickerblade", "AbyssalMask", "ForceOfNature", "DeadMansPlate"],
           "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "MercuryTreads", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["SpearOfShojin", "GuardianAngel", "KaenicRookern", "Redemption"],
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Karthus.",
-        "- Sample tip 2 for Karthus."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Kayn": {
       "name": "Kayn",
+      "difficulty": "medium",
       "portrait": "assets/champions/kayn/KaynSquare.webp",
       "portrait_match": "assets/champions/kayn/KaynPortrait.webp",
       "splash": "assets/champions/kayn/Skin_Splash_Classic_Kayn.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
           "secondary": ["Conditioning", "Unflinching"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "RanduinsOmen",
+            "FrozenHeart"
+          ],
+          "explanation": "Iceborn Gauntlet is almost always the best second item. Jak’Sho is a must-buy as your 4th or 5th item. Ionian Boots are extremely strong into Kayn—lower Flash cooldown helps you catch him during windows. You can skip Spirit Visage if the enemy is full AD; go Randuin’s instead for better durability."        }
+        ,{
+          "label": "AD or with CC on Team",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["IcebornGauntlet", "RanduinsOmen", "FrozenHeart", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there’s no AP threat. Spear of Shojin is the best option into Briar and can even be built before Visage if you're ahead. If you need more tankiness, Death’s Dance is a strong choice, or go Redemption to provide team support."
         }
-      ],
+        ],
       "tips": [
-        "- Sample tip 1 for Kayn.",
-        "- Sample tip 2 for Kayn."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "KhaZix": {
       "name": "Kha'Zix",
+      "difficulty": "medium",
       "portrait": "assets/champions/khazix/KhaZixSquare.webp",
       "portrait_match": "assets/champions/khazix/KhazixPortrait.webp",
       "splash": "assets/champions/khazix/Skin_Splash_Classic_KhaZix.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
           "secondary": ["Conditioning", "Unflinching"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "PlatedSteelcaps", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": [
+            "BootsOfLucidity",
+            "RanduinsOmen",
+            "FrozenHeart"
+          ],
+          "explanation": "Iceborn Gauntlet is almost always the best second item. Jak’Sho is a must-buy as your 4th or 5th item. Plated Steelcaps are extremely strong into Kha'Zix—if ahead, you can go Ionian Boots. You can skip Spirit Visage if the enemy is full AD; go Randuin’s instead for better durability."        
+        },
+        {
+          "label": "AD or with CC on Team",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["IcebornGauntlet", "RanduinsOmen", "FrozenHeart", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there’s no AP threat. Spear of Shojin is the best option into Briar and can even be built before Visage if you're ahead. If you need more tankiness, Death’s Dance is a strong choice, or go Redemption to provide team support."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Kha'Zix.",
-        "- Sample tip 2 for Kha'Zix."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Kindred": {
@@ -545,18 +903,38 @@
       "splash": "assets/champions/kindred/Skin_Splash_Classic_Kindred.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
           "secondary": ["Conditioning", "Unflinching"],
           "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
-          "coreItems": ["BlackCleaver", "MercuryTreads", "IcebornGauntlet", "SpiritVisage", "JakShoTheProtean"],
-          "adaptiveItems": ["RanduinsOmen", "SteraksGage", "OverlordsBloodmail", "KaenicRookern", "Redemption"],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "coreItems": ["CosmicDrive", "BootsOfLucidity", "IcebornGauntlet", "NavoriFlickerblade", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "RanduinsOmen",
+            "FrozenHeart"
+          ],
+          "explanation": "Iceborn Gauntlet is almost always the best second item. Jak’Sho is a must-buy as your 4th or 5th item. Ionian Boots are extremely strong into Kayn—lower Flash cooldown helps you catch him during windows. You can skip Spirit Visage if the enemy is full AD; go Randuin’s instead for better durability."        
+        },
+        {
+          "label": "AD or with CC on Team",
+          "primary": ["LethalTempo", "Triumph", "LegendHaste", "LastStand"],
+          "secondary": ["MagicalFootwear", "JackOfAllTrades"],
+          "shards": ["AttackSpeed", "AdaptiveForce", "Health"],
+          "coreItems": ["TrinityForce", "PlatedSteelcaps", "DeadMansPlate", "SpiritVisage", "JakShoTheProtean"],
+          "adaptiveItems": ["IcebornGauntlet", "RanduinsOmen", "FrozenHeart", "DeathsDance"],
+          "explanation": "Plated Steelcaps (Tabis) are OP—take them unless the enemy has no physical damage. You can skip Spirit Visage if there’s no AP threat. Spear of Shojin is the best option into Briar and can even be built before Visage if you're ahead. If you need more tankiness, Death’s Dance is a strong choice, or go Redemption to provide team support."
         }
       ],
       "tips": [
-        "- Sample tip 1 for Kindred.",
-        "- Sample tip 2 for Kindred."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Lee Sin": {
@@ -576,8 +954,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Lee Sin.",
-        "- Sample tip 2 for Lee Sin."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Lillia": {
@@ -597,8 +982,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Lillia.",
-        "- Sample tip 2 for Lillia."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Master Yi": {
@@ -618,8 +1010,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Master Yi.",
-        "- Sample tip 2 for Master Yi."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Naafiri": {
@@ -639,8 +1038,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Naafir.",
-        "- Sample tip 2 for Naafir."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Nidalee": {
@@ -660,8 +1066,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Nidalee.",
-        "- Sample tip 2 for Nidalee."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Nocturne": {
@@ -681,8 +1094,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Nocturne.",
-        "- Sample tip 2 for Nocturne."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Nunu": {
@@ -702,8 +1122,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Nunu & Willump.",
-        "- Sample tip 2 for Nunu & Willump."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Pantheon": {
@@ -723,8 +1150,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Pantheon.",
-        "- Sample tip 2 for Pantheon."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Poppy": {
@@ -744,8 +1178,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Poppy.",
-        "- Sample tip 2 for Poppy."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Qiyana": {
@@ -765,8 +1206,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Qiyana.",
-        "- Sample tip 2 for Qiyana."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Rammus": {
@@ -786,8 +1234,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Rammus.",
-        "- Sample tip 2 for Rammus."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Rek'Sai": {
@@ -807,8 +1262,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Graves.",
-        "- Sample tip 2 for Graves."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Rengar": {
@@ -828,8 +1290,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Rengar.",
-        "- Sample tip 2 for Rengar."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Sejuani": {
@@ -849,8 +1318,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Sejuani.",
-        "- Sample tip 2 for Sejuani."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Shaco": {
@@ -870,8 +1346,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Shaco.",
-        "- Sample tip 2 for Shaco."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Shyvana": {
@@ -891,8 +1374,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Shyvana.",
-        "- Sample tip 2 for Shyvana."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Skarner": {
@@ -912,8 +1402,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Skarner.",
-        "- Sample tip 2 for Skarner."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Taliyah": {
@@ -933,8 +1430,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Taliyah.",
-        "- Sample tip 2 for Taliyah."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Talon": {
@@ -954,8 +1458,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Talon.",
-        "- Sample tip 2 for Talon."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Trundle": {
@@ -975,8 +1486,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Trundle.",
-        "- Sample tip 2 for Trundle."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Udyr": {
@@ -996,8 +1514,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Udyr.",
-        "- Sample tip 2 for Udyr."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Vi": {
@@ -1017,8 +1542,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Vi.",
-        "- Sample tip 2 for Vi."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Viego": {
@@ -1038,8 +1570,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Viego.",
-        "- Sample tip 2 for Viego."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Warwick": {
@@ -1059,8 +1598,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Warwick.",
-        "- Sample tip 2 for Warwick."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Wukong": {
@@ -1080,8 +1626,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Wukong.",
-        "- Sample tip 2 for Wukong."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Xin Zhao": {
@@ -1101,8 +1654,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Xin Zhao.",
-        "- Sample tip 2 for Xin Zhao."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Zac": {
@@ -1122,8 +1682,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Zac.",
-        "- Sample tip 2 for Zac."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Zed": {
@@ -1143,8 +1710,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Zed.",
-        "- Sample tip 2 for Zed."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     },
     "Zyra": {
@@ -1164,8 +1738,15 @@
         }
       ],
       "tips": [
-        "- Sample tip 1 for Zyra.",
-        "- Sample tip 2 for Zyra."
+        "Skill upgrade- Q max, W max, E max",
+        "Important Mechanics: Using R to extend Q duration",
+        "General Macro:",
+        "Early:",
+        "- Sample tip for Early",
+        "Mid:",
+        "- Sample tip for Mid",
+        "Late:",
+        "- Sample tip for Late"
       ]
     }
   }
