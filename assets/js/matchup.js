@@ -130,19 +130,25 @@ fetch('assets/data/matchups.json')
       let html = '';
       let inList = false;
       tips.forEach((tip, i) => {
-        // Section headers: end with ':' and not a list item
-        if (/^(Volibear|Game Plan|Early Game|Mid Game|Late Game|Skill Order Tip|Important Mechanics|Volibear's Advantages|Volibear's Advantages):$/i.test(tip.trim())) {
+        // Section headers: start with these patterns and contain a colon
+        if (/^(Volibear|Game Plan|Early Game|Mid Game|Late Game|Skill Order Tip|Important Mechanics|Volibear's Advantages|General Macro|Early|Mid|Mid game|Late|Late Game):/i.test(tip.trim())) {
           if (inList) { html += '</ul>'; inList = false; }
-          html += `<strong style="color:#ffe082;display:block;margin-top:1.1em;">${tip.replace(/:$/, '')}</strong>`;
+          const colonIndex = tip.indexOf(':');
+          const header = tip.substring(0, colonIndex);
+          const content = tip.substring(colonIndex + 1).trim();
+          html += `<strong>${header}</strong>`;
+          if (content) {
+            html += `<p>${content}</p>`;
+          }
         } else if (tip.trim().startsWith('- ')) {
-          if (!inList) { html += '<ul style="margin:0.5em 0 0.5em 1.2em;">'; inList = true; }
+          if (!inList) { html += '<ul>'; inList = true; }
           html += `<li>${tip.replace(/^- /, '')}</li>`;
         } else if (tip.trim() === '') {
           if (inList) { html += '</ul>'; inList = false; }
           html += '<br/>';
         } else {
           if (inList) { html += '</ul>'; inList = false; }
-          html += `<p style="margin:0.5em 0;">${tip}</p>`;
+          html += `<p>${tip}</p>`;
         }
       });
       if (inList) html += '</ul>';

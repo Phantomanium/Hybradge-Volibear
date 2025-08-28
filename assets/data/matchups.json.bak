@@ -1,4 +1,4 @@
-﻿{
+{
   "items": {
     "AbyssalMask": {
       "src": "assets/items/Abyssal_Mask.webp",
@@ -2087,12 +2087,9 @@
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
-        "Advantage: You win, until late game.",
         "Important Mechanics: Sync your E and R in order to land both and to gurantee you secure yoru shield from E",
-        "General Macro: Crowd him, punish aggressive plays",
         "Early: Karthus clears faster than you, but he has to start clearing from his blue buff otherwise he will run out of mana so it is easy to track him, at approximately 2:50 make sure both you and your teammates are aware that he has a gank/invade timer. You will decimate karthus in skirmishes but still try to avoid as many Qs as possible as they still do damage. You can always secure objectives in this matchup as it is hard for him to kill you on objectives given your healing from W and shield from E.",
-        "Mid: After your 1st item you can't lose skirmishes vs karthus, your extra movement speed is crucial in allowing you to dodge karthus Qs so make sure you abuse this advantage. Regarding skirmishes you don't have to focus karthus but given karthus doesnt have the longest range and is quite squishy, you can punish him quite easily. In addition, make sure you secure all the objectives possible because karthus does scale like a monster so you need some scaling factor to combat him.",
-        "Late: At this point of the game, Karthus is extremely strong but there isn't anything special you want to do, the key things to watch out for are that karthus does have a tendency to be caught due to his short range so use your extensive movement speed to look for picks on him as you can still pick him off and stay healthy due to your E and W. In teamfights, simply play for your teams wincon and don't try to trade 1 for 1 with karthus if you don't have to as his passive makes those 1 for 1s extremely worth for him. Finally make sure you are the one with control around objectives as karthus has a really hard isuse walking in to objectives zones if he as no control."
+        "Mid: After your 1st item you can't lose skirmishes vs karthus, your extra movement speed is crucial in allowing you to dodge karthus Qs so make sure you abuse this advantage. Regarding skirmishes you don't have to focus karthus but given karthus doesnt have the longest range and is quite squishy, you can punish him quite easily. In addition, make sure you secure all the objectives possible because karthus does scale like a monster so you need some scaling factor to combat him."
       ]
     },
     "Kayn": {
@@ -2169,7 +2166,6 @@
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
-        "Advantage: You win, until late game.",
         "Important Mechanics: Use Q when Kayn is either next to you or he has no E otherwise he can space you easily, chain E + R with Q because kayn can dodge it easily.",
         "Early: You have the biggest advantage at this point, skirmishes are not even close and you have a faster clear speed, it is important on the first clear you watch out for kayn's cheese especially on your raptors because if he does start your raptors it can put you 2 camps behind. This is why if you are not starting raptors or red, ward the raptors. On 2nd clear try to stack objectives, importantly you want to pull the objective because Kayn can get into the pit and steal it easily with E also remember to secure objectives with E chained with smite",
         "Mid game: This is the part of the game where you have the biggest advantage, especially with your 1st item, kayn can never even come close to killing you. That being said after form kayn is extremely mobile and can snowball the game, this is why deep vision and info of Kayn's whereabouts is extremely valuable in denying Kayn's ability to snowball.especially on side lanes. Again, the key to winning matchups like these is stacking objectives, you want to make sure you reduce random fighting which gives kayn the opportunity to snowball and rather focus on stacking objectives so you have an eventual win con that will combat Kayn's insane late game prowess.",

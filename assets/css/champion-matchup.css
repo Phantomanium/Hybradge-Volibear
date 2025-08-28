@@ -111,6 +111,33 @@
   color: #ffe082;
   font-weight: 600;
 }
+
+.tips-container strong {
+  color: #ffe082;
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.tips-container ul {
+  margin: 0.5em 0 0.5em 1.2em;
+}
+
+.tips-container li {
+  margin-bottom: 0.3em;
+}
+
+.tips-container p {
+  margin: 0.8em 0;
+  line-height: 1.6;
+}
+
+.tips-container {
+  border-left: 3px solid #ffe082;
+  padding-left: 1.8rem;
+}
 .compact-flex-row {
   display: flex;
   flex-direction: row;
@@ -137,6 +164,12 @@
     width: 100%;
     min-width: 0;
     max-width: 100%;
+  }
+  .tips-container {
+    border-left: none;
+    padding-left: 1.2rem;
+    border-top: 3px solid #ffe082;
+    padding-top: 1.2rem;
   }
 }
 .runes-container, .items-col {
