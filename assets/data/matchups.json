@@ -2182,7 +2182,7 @@
       "name": "Kha'Zix",
       "difficulty": "medium",
       "portrait": "assets/champions/khazix/KhaZixSquare.webp",
-      "portrait_match": "assets/champions/khazix/KhazixPortrait.webp",
+      "portrait_match": "assets/champions/khazix/KhaZixPortrait.webp",
       "splash": "assets/champions/khazix/Skin_Splash_Classic_KhaZix.webp",
       "runesets": [
         {
