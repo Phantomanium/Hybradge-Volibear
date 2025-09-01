@@ -187,9 +187,22 @@ a:hover, a:focus {
   border: none;
   border-radius: 16px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.18);
-  background: none;
+  background: linear-gradient(90deg, #2a2a2a 25%, #3a3a3a 50%, #2a2a2a 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
   margin: 0;
   display: block;
+  transition: opacity 0.3s ease;
+}
+
+.champion-portrait[src] {
+  background: none;
+  animation: none;
+}
+
+@keyframes loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
 }
 .matchup-bg {
   min-height: 100vh;

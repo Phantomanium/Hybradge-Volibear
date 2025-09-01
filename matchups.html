@@ -6,6 +6,10 @@
   <title>Volibear Jungle Matchups</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
+  <!-- Preload critical images -->
+  <link rel="preload" as="image" href="assets/champions/amumu/AmumuPortrait.webp">
+  <link rel="preload" as="image" href="assets/champions/belveth/BelVethPortrait.webp">
+  <link rel="preload" as="image" href="assets/champions/brand/BrandPortrait.webp">
 </head>
 <body>
   <div class="champion-grid" id="champion-container">
@@ -25,11 +29,26 @@
           cardDiv.className = 'portrait-card';
           cardDiv.innerHTML = `
             <a class="champion-card" href="matchup.html?champ=${champKey}">
-              <img src="${champ.portrait_match}" alt="${champ.name}" class="champion-portrait">
+              <img data-src="${champ.portrait_match}" alt="${champ.name}" class="champion-portrait" loading="lazy">
             </a>
           `;
           container.appendChild(cardDiv);
         });
+        
+        // Implement lazy loading
+        const images = document.querySelectorAll('img[data-src]');
+        const imageObserver = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const img = entry.target;
+              img.src = img.dataset.src;
+              img.removeAttribute('data-src');
+              observer.unobserve(img);
+            }
+          });
+        });
+        
+        images.forEach(img => imageObserver.observe(img));
       })
       .catch(error => {
         console.error('Error loading champion data:', error);
