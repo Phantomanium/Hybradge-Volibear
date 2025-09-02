@@ -3,7 +3,7 @@
     "AbyssalMask": {
       "src": "assets/items/Abyssal_Mask.webp",
       "alt": "Abyssal Mask",
-      "price": null
+      "price": 2650
     },
     "ArchangelsStaff": {
       "src": "assets/items/Archangels_Staff.webp",
@@ -28,7 +28,7 @@
     "BlackCleaver": {
       "src": "assets/items/Black_Cleaver.webp",
       "alt": "Black Cleaver",
-      "price": null
+      "price": 3000
     },
     "BlackfireTorch": {
       "src": "assets/items/Blackfire_Torch.webp",
@@ -53,7 +53,7 @@
     "BootsOfLucidity": {
       "src": "assets/items/Boots_of_Lucidity.webp",
       "alt": "Boots of Lucidity",
-      "price": null
+      "price": 900
     },
     "BootsOfSwiftness": {
       "src": "assets/items/Boots_of_Swiftness.webp",
@@ -68,7 +68,7 @@
     "CosmicDrive": {
       "src": "assets/items/Cosmic_Drive.webp",
       "alt": "Cosmic Drive",
-      "price": null
+      "price": 3000
     },
     "Cryptbloom": {
       "src": "assets/items/Cryptbloom.webp",
@@ -83,12 +83,12 @@
     "DeadMansPlate": {
       "src": "assets/items/Dead_Mans_Plate.webp",
       "alt": "Dead Man's Plate",
-      "price": null
+      "price": 2900
     },
     "DeathsDance": {
       "src": "assets/items/Deaths_Dance.webp",
       "alt": "Death's Dance",
-      "price": null
+      "price": 3300
     },
     "DreamMaker": {
       "src": "assets/items/Dream_Maker.webp",
@@ -128,17 +128,17 @@
     "ForceOfNature": {
       "src": "assets/items/Force_of_Nature.webp",
       "alt": "Force of Nature",
-      "price": null
+      "price": 2800
     },
     "FrozenHeart": {
       "src": "assets/items/Frozen_Heart.webp",
       "alt": "Frozen Heart",
-      "price": null
+      "price": 2500
     },
     "GuardianAngel": {
       "src": "assets/items/Guardian_Angel.webp",
       "alt": "Guardian Angel",
-      "price": null
+      "price": 3200
     },
     "GuinsoosRageblade": {
       "src": "assets/items/Guinsoos_Rageblade.webp",
@@ -178,7 +178,7 @@
     "IcebornGauntlet": {
       "src": "assets/items/Iceborn_Gauntlet.webp",
       "alt": "Iceborn Gauntlet",
-      "price": null
+      "price": 2900
     },
     "ImmortalShieldbow": {
       "src": "assets/items/Immortal_Shieldbow.webp",
@@ -198,12 +198,12 @@
     "JakShoTheProtean": {
       "src": "assets/items/JakSho_The_Protean.webp",
       "alt": "Jak'Sho The Protean",
-      "price": null
+      "price": 3200
     },
     "KaenicRookern": {
       "src": "assets/items/Kaenic_Rookern.webp",
       "alt": "Kaenic Rookern",
-      "price": null
+      "price": 2900
     },
     "KnightsVow": {
       "src": "assets/items/Knights_Vow.webp",
@@ -268,7 +268,7 @@
     "MercuryTreads": {
       "src": "assets/items/Mercury_Treads.webp",
       "alt": "Mercury Treads",
-      "price": null
+      "price": 1250
     },
     "MikaelsBlessing": {
       "src": "assets/items/Mikaels_Blessing.webp",
@@ -303,7 +303,7 @@
     "NavoriFlickerblade": {
       "src": "assets/items/Navori_Flickerblade.webp",
       "alt": "Navori Flickerblade",
-      "price": null
+      "price": 2650
     },
     "Opportunity": {
       "src": "assets/items/Opportunity.webp",
@@ -313,7 +313,7 @@
     "OverlordsBloodmail": {
       "src": "assets/items/Overlords_Bloodmail.webp",
       "alt": "Overlord's Bloodmail",
-      "price": null
+      "price": 3300
     },
     "PhantomDancer": {
       "src": "assets/items/Phantom_Dancer.webp",
@@ -333,7 +333,7 @@
     "RanduinsOmen": {
       "src": "assets/items/Randuins_Omen.webp",
       "alt": "Randuin's Omen",
-      "price": null
+      "price": 2700
     },
     "RapidFirecannon": {
       "src": "assets/items/Rapid_Firecannon.webp",
@@ -348,12 +348,12 @@
     "Redemption": {
       "src": "assets/items/Redemption.webp",
       "alt": "Redemption",
-      "price": null
+      "price": 2300
     },
     "Riftmaker": {
       "src": "assets/items/Riftmaker.webp",
       "alt": "Riftmaker",
-      "price": null
+      "price": 3100
     },
     "RodOfAges": {
       "src": "assets/items/Rod_of_Ages.webp",
@@ -403,12 +403,12 @@
     "SpearOfShojin": {
       "src": "assets/items/Spear_of_Shojin.webp",
       "alt": "Spear of Shojin",
-      "price": null
+      "price": 3100
     },
     "SpiritVisage": {
       "src": "assets/items/Spirit_Visage.webp",
       "alt": "Spirit Visage",
-      "price": null
+      "price": 2700
     },
     "StaffOfFlowingWater": {
       "src": "assets/items/Staff_of_Flowing_Water.webp",
@@ -423,7 +423,7 @@
     "SteraksGage": {
       "src": "assets/items/Steraks_Gage.webp",
       "alt": "Sterak's Gage",
-      "price": null
+      "price": 3200
     },
     "Stormsurge": {
       "src": "assets/items/Stormsurge.webp",
@@ -473,7 +473,7 @@
     "TrinityForce": {
       "src": "assets/items/Trinity_Force.webp",
       "alt": "Trinity Force",
-      "price": null
+      "price": 3333
     },
     "UmbralGlaive": {
       "src": "assets/items/Umbral_Glaive.webp",
@@ -538,7 +538,7 @@
     "PlatedSteelcaps": {
       "src": "assets/items/Plated_Steelcaps.webp",
       "alt": "Plated Steelcaps",
-      "price": null
+      "price": 1200
     }
   },
   "runes": {
@@ -2377,6 +2377,39 @@
             "SpearOfShojin"
           ],
           "explanation": "Plated Steelcaps are fine into Lee Sin. Can skip Spirit Visage if enemy team has no AP. Deaths Dance and Randuins are strong options for more defense against Lee. Spear of Shojin is the best if you need more damage or you're ahead."
+        },
+        {
+          "label": "AD - Utility Build",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "Celerity",
+            "Waterwalking"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "BlackCleaver",
+            "BootsOfLucidity",
+            "IcebornGauntlet",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "KaenicRookern",
+            "Redemption"
+          ],
+          "explanation": "Ionian are best choice to catch Lee because of how slippery he is. Spear of Shojin is the best to supplement your damage with this build. Otherwise Randuin's and Kaenic Rookern are both strong options depending on the enemy damage composition."
         }
       ],
       "tips": [
@@ -3370,6 +3403,7 @@
     },
     "Sejuani": {
       "name": "Sejuani",
+      "difficulty": "medium",
       "portrait": "assets/champions/sejuani/SejuaniSquare.webp",
       "portrait_match": "assets/champions/sejuani/SejuaniPortrait.webp",
       "splash": "assets/champions/sejuani/Skin_Splash_Classic_Sejuani.webp",
@@ -3444,7 +3478,9 @@
       ],
       "tips": [
         "Skill upgrade: 3 points in Q, W max, Q max , E max",
+        "Advantage: You are stronger before level 6 (S+), your advantage lower after her first item (A). Mercs return it in your favor (S)",
         "Important Mechanics: W when CC is hitting you (you can buffer it and apply W through CC), Use R to buffer and space Seju ult so it's harder for enemy to follow up damage on you. You can stun Sejuani with your Q if she is trying to Q you (you will both be CCd)",
+        "General Macro: Dominate mid-early, respect CC don't overextend",
         "Early: Utilize your clear speed advantage to be the first to make plays, in the early game your advantage lies in 1v1s, your disadvantage lies in the fact that in 2v2s or 3v3s, sejuani can chain cc you long enough for her team to kill you so just becareful you don't overextend and you will be fine. If you want to take objectives at this stage of the game, you have to have proper set up because Sejuani has a lot of damage early game and as said earlier they can burst you so don't underestimate her just because of her tanky nature and ensure lanes are pushed and vision is set up.",
         "Mid game: This is the part of the game where you can generate the biggest lead, in the mid game sejuani players will always overuse their tempot to try to create players so what you need to do is either match these plays and if you can't, try to create invades and generate a camp lead. Remember just cause sejuani is skipping her camps doesn't mean you should be doing the same thing, her champion is far lower econ than you so it is in her interest if you skip camps and amtch her on 50/50 plays. Sure, if you can match her and get a kill do so, but if your laners are safe don't skip camps unless you need to. In addition, in matchups like this make sure you take as many objectives as you can, skipping camps to be there to set up the objective is advantageous because sejuani's champion is stronger when you have no info as it allows her to go for creative engages with her ult and get a pick before the fight even starts so if you need to skip camps to acquire vision do so. In fights very simple, focus the first target sejuani isn't mega tanky at this point and you have the damage to wreck her, if she ults you you can either ult away if the fight is bad or ult on her if the fight is good and slight buffer the stun.",
         "Late Game: At this point Sejuani is the strongest, her ult is on low Cd and she wil often just throw it out to fish for plays. What this means is you need to be good enough to make sure you never are far up enough that you can be killed without your team being able to retaliate, hopefully by this point you have enough tenacity to frontline, use this to spearhead your team when you are trying to take zones of vision, if enemy team is there first, push waves force them to respond then retake the vision. In fights it'll be common for you to use ult defensively, this is really good at this point because your ult damage is negligible so if you want to trade ult for ult in important fight, do so. Remember however your ult has a longer cd so don't trade ults unless it's close to an objective timer. Finally in fights just try to survive and frontline as long as possible, use your W's on sej because she is a very accessible target and can keep you healing throiughout the fight."
@@ -3488,7 +3524,7 @@
             "RanduinsOmen",
             "KaenicRookern"
           ],
-          "explanation": "Core 6 are always built. Flickerblade is really valuable in this matchup. Ionian boot is ahead, otherwise go with appropriate boots (Mercury Treads mostly). Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho with Mercur Treads in this matchup is also good."
+          "explanation": "Core 6 are always built. Flickerblade is really valuable in this matchup. Ionian boot is ahead, otherwise go with appropriate boots (Mercury Treads mostly). Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho."
         },
         {
           "label": "AD - Damage Follow Up",
@@ -3536,6 +3572,7 @@
     },
     "Shyvana": {
       "name": "Shyvana",
+      "difficulty": "medium",
       "portrait": "assets/champions/shyvana/ShyvanaSquare.webp",
       "portrait_match": "assets/champions/shyvana/ShyvanaPortrait.webp",
       "splash": "assets/champions/shyvana/Skin_Splash_Classic_Shyvana.webp",
@@ -3549,8 +3586,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3558,32 +3595,62 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
+            "KaenicRookern"
+          ],
+          "explanation": "Core 6 are always built. Ionian boots if ahead, otherwise go with appropriate boots (Mercury Treads mostly). Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho with Mercur Treads in this matchup is also good."
+        },
+        {
+          "label": "AD - Damage Follow Up",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "MagicalFootwear",
+            "JackOfAllTrades"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Core 5 are good. Mercury Treads and Plated Steelcaps are interchangeable. Spear of Shojin is the best option if you want more damage. Redemption if AOE Heal has value for your team. Kaenic and Randuin's if you need more resistances."
         }
       ],
       "tips": [
         "Skill upgrade- Q max, W max, E max",
-        "Important Mechanics: Using R to extend Q duration",
-        "General Macro:",
-        "Early:",
-        "- Sample tip for Early",
-        "Mid:",
-        "- Sample tip for Mid",
-        "Late:",
-        "- Sample tip for Late"
+        "Important Mechanics: Your ult can buffer shyvanna ult knockaway, use q and w as auto resets to maximize DPS.",
+        "General Macro: Don't give objectives, crowd Shyvanna",
+        "Early: This is one of the most straightforward early games you will have on volibear, Shyvanna has a slower clear and is much weaker in skirmishes, any gank you play will be at your advantage both timing and power wise so any good gank opportunity should be utilized. Before your first base, pop a ward on drake because  Shyvannas love sneaking drake after first base and can rush them. Look to drake on your 2nd clear and with decent set up it will always be free because again skirmishes are unloseable. ",
+        "Mid: In the mid game, the only thing you need to keep track of are drakes, shyvannas power comes from her ability to stack drakes so denying this is extremely important. This means you need to be on time at drakes so Shyvanna can't rush it whilst at the same time balancing clearing your camps, because if you don't, shyvanna is a champion that can clear camps so quickly and get ahead if you ignore your camps. In fights, Shyvanna can be annoying as a poke champ so try to either look to hard engage on her and if you do take damage, heal the poke off with your W. If you don't hard engage, you can look for a quick Q to force her ult and then just give up positioning until her ult times out and she is significantly weaker.",
+        "Late: In the late game Shyvanna is just annoying her ult + E allows her to be extremely lethal if you are indecisive so to counter this, gaining positioning and vision around objectives is really important as  without info, she can't really poke you and your team out. On top of this, your flash cooldown is important, with flash you are able to look for quick, snappy plays that shyvanna hates playing against, this is also the reason ionian boots are very valuable. In my opinion, farm doesn't matter late game, you will hardly get any tankier or stronger damage wise, positioning on the other hand is way more important and is something you should focus on. If you manage to ever stun shyvanna she can't escape you because of your iceborn gauntlet along with Q short cd chain CC so just remember if you touch her once, don't let her scurry away, her ult is not a long dash and is definitely not enough to escape you."
       ]
     },
     "Skarner": {
@@ -3601,8 +3668,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3610,37 +3677,23 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
-            "KaenicRookern",
-            "Redemption"
+            "KaenicRookern"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-        }
-      ],
-      "tips": [
-        "Skill upgrade: Q 3 points, W max, Q max, E max",
-        "Important Mechanics: Your ult can buffer Skarner ult and deny surpression it can also deny skarner E, your q can cancel out skarner E if you auto him as he Es you (doesnt need to be timed well), W as auto cancel will help out dps significantly.",
-        "Early: This early game is extremely simple, you have a 30 second lead on skarner for the first clear, meaning you pretty much have an opportunity to go for a free gank. In skirmishes, if you think skarner can be there, your engage must be patient if skarner e's you you can cancel it with your Q and the fight is won. On the second clear you should almost always go for drake unless the lane states are horrible, Skarner has no means to last hit a drake (he has no burst) and he also is pretty much never going to get to the drake on time to contest because of his slow clearing speed. Even if he is, his skirmishing ability is simply just his E and you can cancel it easily with Q.",
-        "Mid game: In the mid game, you should keep the game simple, skirmishes are easy, just ensure you have numbers and you will always win them. Make sure you are taking every objective as Skarner should never, ever have the potential to contest you on them if he does there are two things you need to watch, 1- Q his e, 2 R his ult, the only way he will kill you is if he chain CC'S so dont greed these spells, trade them if you need to and you will always win. Remember in free games like this dragon soul will seal the deal quick and early."
-      ]
-    },
-    "Taliyah": {
-      "name": "Taliyah",
-      "portrait": "assets/champions/taliyah/TaliyahSquare.webp",
-      "portrait_match": "assets/champions/taliyah/TaliyahPortrait.webp",
-      "splash": "assets/champions/taliyah/Skin_Splash_Classic_Taliyah.webp",
-      "runesets": [
+          "explanation": "Core 6 are always built (Flicker has alot of value against Skarner because you can auto him easily). Ionian boots if ahead, otherwise go with appropriate boots (Mercury Treads mostly). Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho with Mercur Treads in this matchup is also good."
+        },
         {
-          "label": "Solo Frontline",
+          "label": "AD - Damage Follow Up",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -3648,8 +3701,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "MagicalFootwear",
+            "JackOfAllTrades"
           ],
           "shards": [
             "AttackSpeed",
@@ -3657,30 +3710,118 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "KaenicRookern",
+            "Redemption"
+          ],
+          "explanation": "Core 5 are good. Mercury Treads and Plated Steelcaps are interchangeable. Spear of Shojin is the best option if you want more damage (Optimal against Skarner, think of him as a punching bag). Redemption if AOE Heal has value for your team. Kaenic and Randuin's if you need more resistances."
+        }
+      ],
+      "tips": [
+        "Skill upgrade: Q 3 points, W max, Q max, E max",
+        "Advantage: You hold advantage over him the whole game",
+        "Important Mechanics: Your ult can buffer Skarner ult and deny surpression it can also deny skarner E, your q can cancel out skarner E if you auto him as he Es you (doesnt need to be timed well), W as auto cancel will help out dps significantly.",
+        "General Macro: Utilize mechanics to buffer CC, be aggressive but dont overextend.",
+        "Early: This early game is extremely simple, you have a 30 second lead on skarner for the first clear, meaning you pretty much have an opportunity to go for a free gank. In skirmishes, if you think skarner can be there, your engage must be patient if skarner e's you you can cancel it with your Q and the fight is won. On the second clear you should almost always go for drake unless the lane states are horrible, Skarner has no means to last hit a drake (he has no burst) and he also is pretty much never going to get to the drake on time to contest because of his slow clearing speed. Even if he is, his skirmishing ability is simply just his E and you can cancel it easily with Q.",
+        "Mid game: In the mid game, you should keep the game simple, skirmishes are easy, just ensure you have numbers and you will always win them. Make sure you are taking every objective as Skarner should never, ever have the potential to contest you on them if he does there are two things you need to watch, 1- Q his e, 2 R his ult, the only way he will kill you is if he chain CC'S so dont greed these spells, trade them if you need to and you will always win. Remember in free games like this dragon soul will seal the deal quick and early.",
+        "Late: In the late game Shyvanna is just annoying her ult + E allows her to be extremely lethal if you are indecisive so to counter this, gaining positioning and vision around objectives is really important as  without info, she can't really poke you and your team out. On top of this, your flash cooldown is important, with flash you are able to look for quick, snappy plays that shyvanna hates playing against, this is also the reason ionian boots are very valuable. In my opinion, farm doesn't matter late game, you will hardly get any tankier or stronger damage wise, positioning on the other hand is way more important and is something you should focus on. If you manage to ever stun shyvanna she can't escape you because of your iceborn gauntlet along with Q short cd chain CC so just remember if you touch her once, don't let her scurry away, her ult is not a long dash and is definitely not enough to escape you."
+      ]
+    },
+    "Taliyah": {
+      "name": "Taliyah",
+      "difficulty": "medium",
+      "portrait": "assets/champions/taliyah/TaliyahSquare.webp",
+      "portrait_match": "assets/champions/taliyah/TaliyahPortrait.webp",
+      "splash": "assets/champions/taliyah/Skin_Splash_Classic_Taliyah.webp",
+      "runesets": [
+        {
+          "label": "AP or Solo Frontline",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "Celerity",
+            "Waterwalking"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "CosmicDrive",
             "MercuryTreads",
             "IcebornGauntlet",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
-            "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
+            "BootsOfLucidity",
+            "NavoriFlickerblade",
+            "AbyssalMask",
+            "ForceOfNature",
+            "DeadMansPlate"
+          ],
+          "explanation": "Build Spirit Visage over Gauntlet if AP is a major threat. Take Ionian Boots over Mercs if you're ahead and don't need the tenacity. Flickerblade is only worth as a last item if you can consistently hit multiple enemies. Abyssal Mask is good if your team has 2 or more AP sources—otherwise, go Force of Nature."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "MagicalFootwear",
+            "JackOfAllTrades"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "SpearOfShojin",
+            "GuardianAngel",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
+        "Advantage: Until late game you hold the advantage",
         "Important Mechanics: You can use R to buffer Taliyah W or R knockback. Use W on camps ot heal off taliyah poke in between fights",
-        "Early: You have a faster clear than Taliyah however since Taliyah has fast movement speed with her passive, unless enemies are mega pushed up, she will likely be able to somewhat counter your gank so it's important to acknowledge this and if a gank isn't likely, playing for a pick on taliyah finishing her clear or playing for positioning for scuttle is significantly better.On second clear, look to do drake if you can secure vision control, taliyah is horrible at facechecking so if she does you can even flash stun on her and you will anhilate her. If you don't have prio then make sure you are aware of entering bushes because even at this stage, Taliyah has pretty good burst when you facecheck her. Mid: After level 6 you hard fist taliyah whenever you want to, always just ult on her and you will be able to kill her easily, she can never survive if you enter into melee range of her so if she walks up just ult on her uneless she has help nearby. After your 1st item, the game becomes infinitely easier, you will be able to steamroll Taliyah even if you just hit an E. Honestly the important thing to do in the mid game is just take control, if you do she can't facecheck and all the objectives are free, if she gets positioning it could prove troublesome if you don't react to Ws so if you are late, keep your eyes peeled for Taliyah W's from out of vision. Remember Taliyah ult allows her to match your plays on side if you ever go for them so just respect that and ensure you include the possible presence of her when going for plays."
+        "General Macro: Crowd her, be first to play.",
+        "Early: You have a faster clear than Taliyah however since Taliyah has fast movement speed with her passive, unless enemies are mega pushed up, she will likely be able to somewhat counter your gank so it's important to acknowledge this and if a gank isn't likely, playing for a pick on taliyah finishing her clear or playing for positioning for scuttle is significantly better. On second clear, look to do drake if you can secure vision control, Taliyah is horrible at facechecking so if she does you can even flash stun on her and you will anhilate her. If you don't have prio then make sure you are aware of entering bushes because even at this stage, Taliyah has pretty good burst when you facecheck her.", 
+        "Mid: After level 6 you hard fist taliyah whenever you want to, always just ult on her and you will be able to kill her easily, she can never survive if you enter into melee range of her so if she walks up just ult on her uneless she has help nearby. After your 1st item, the game becomes infinitely easier, you will be able to steamroll Taliyah even if you just hit an E. Honestly the important thing to do in the mid game is just take control, if you do she can't facecheck and all the objectives are free, if she gets positioning it could prove troublesome if you don't react to Ws so if you are late, keep your eyes peeled for Taliyah W's from out of vision. Remember Taliyah ult allows her to match your plays on side if you ever go for them so just respect that and ensure you include the possible presence of her when going for plays.",
+        "Late: At this point of the game, you can still win fights by ulting onto Taliyah however she has INSANE burst, this means when she has flash you can't be reckless with your engages it might also be smart to stun her first before you Ult and use your Ult as a secondary engage point which allows you to reengage on taliyah if she repositions. Again, Taliyah is much stronger when she holds vision control so deny that and take control and the fights will be extremely free. On top of this when looking for plays on sides be aware taliyah can match you with her ult so always respect and pay attention to that."
       ]
     },
     "Talon": {
       "name": "Talon",
+      "difficulty": "hard",
       "portrait": "assets/champions/talon/TalonSquare.webp",
       "portrait_match": "assets/champions/talon/TalonPortrait.webp",
       "splash": "assets/champions/talon/Skin_Splash_Classic_Talon.webp",
@@ -3694,8 +3835,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3703,37 +3844,23 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
-            "KaenicRookern",
-            "Redemption"
+            "KaenicRookern"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-        }
-      ],
-      "tips": [
-        "Skill upgrade: Q max, W max, E max",
-        "Important Mechanics: Use Q W as auto resets to maximize damage, make sure to use S keys when Talon goes invis so you are not Qing someone else accidentally.",
-        "Early: You need to watch out for talon cheesing your raptors level 1 so you need to keep an eye out for that, also make sure your team is aware of 3 camp ganks from raptors, pings will be extremely helpful here. Your fullclear speed is quick, talon can match you on ganks though so if you are making plays make sure to hug the far end side of the wall if you are low so talon can't just insta parachute on you. If you have good prio for drakes they will be free, Talon struggles in straight up brawls and is more dependant on catching people in transition and snowballing off of it, this is why vision is import and just going and playing for objectives where your team is grouped up will deny him that opportunity whilst giving you the soul win con.",
-        "Mid game: In the mid game this is where Talon can snowball leads and is thus the most dangerous. There are 2 things you must do, 1st its important you are always clearing your camps and not making random plays, if the plays you go for are not done when your camps are down, talon will use his 4 billion dashes to take your camps this will put him at a huge Xp surplus so it's extremely important you make plays after you finish full clears. The second thing you should do is set up good vision and hover your side lanes if need be, talon is extremely mobile and can pick off your side lanes at ease, vision will help but pings are probably way more important. The most important thing is to deny your laners from dying stupid deaths, just hover them to push out the lanes so they won't have to be in a dangerous position by themselves. In fights just let talon jump in and then play, you never want to be the one engaging because when you engage you leave gaps and holes this allows Talon to thrive in the position he wants the most so its easier if you play counter-engage in this matchup rather than engage."
-      ]
-    },
-    "Trundle": {
-      "name": "Trundle",
-      "portrait": "assets/champions/trundle/TrundleSquare.webp",
-      "portrait_match": "assets/champions/trundle/TrundlePortrait.webp",
-      "splash": "assets/champions/trundle/Skin_Splash_Classic_Trundle.webp",
-      "runesets": [
+          "explanation": "Core 6 are always built. Ionian boots if ahead, otherwise go with appropriate boots (Mercury Treads mostly). Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho with Mercur Treads in this matchup is also good."
+        },
         {
-          "label": "Solo Frontline",
+          "label": "AD - Damage Follow Up",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -3741,8 +3868,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "MagicalFootwear",
+            "JackOfAllTrades"
           ],
           "shards": [
             "AttackSpeed",
@@ -3750,25 +3877,107 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
+            "TrinityForce",
             "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "KaenicRookern",
+            "Redemption"
+          ],
+          "explanation": "Core 5 are good. You can skip Jak'Sho if you want another armor item instead (Death's Dance for burst and Randuin's Omen to counter a strong ADC). Spear of Shojin is the best option if you want more damage and are ahead. Plated Steelcaps are broken in this matchup and are must build."
+        }
+      ],
+      "tips": [
+        "Skill upgrade: Q max, W max, E max",
+        "Advantage: You have stronger 1v1s",
+        "Important Mechanics: Use Q W as auto resets to maximize damage, make sure to use S keys when Talon goes invis so you are not Qing someone else accidentally.",
+        "General Macro: Don't skip your camps and use pings to coordinate with your team.",
+        "Early: You need to watch out for talon cheesing your raptors level 1 so you need to keep an eye out for that, also make sure your team is aware of 3 camp ganks from raptors, pings will be extremely helpful here. Your fullclear speed is quick, talon can match you on ganks though so if you are making plays make sure to hug the far end side of the wall if you are low so talon can't just insta parachute on you. If you have good prio for drakes they will be free, Talon struggles in straight up brawls and is more dependant on catching people in transition and snowballing off of it, this is why vision is import and just going and playing for objectives where your team is grouped up will deny him that opportunity whilst giving you the soul win con.",
+        "Mid: In the mid game this is where Talon can snowball leads and is thus the most dangerous. There are 2 things you must do, 1st its important you are always clearing your camps and not making random plays, if the plays you go for are not done when your camps are down, talon will use his 4 billion dashes to take your camps this will put him at a huge Xp surplus so it's extremely important you make plays after you finish full clears. The second thing you should do is set up good vision and hover your side lanes if need be, talon is extremely mobile and can pick off your side lanes at ease, vision will help but pings are probably way more important. The most important thing is to deny your laners from dying stupid deaths, just hover them to push out the lanes so they won't have to be in a dangerous position by themselves. In fights just let talon jump in and then play, you never want to be the one engaging because when you engage you leave gaps and holes this allows Talon to thrive in the position he wants the most so its easier if you play counter-engage in this matchup rather than engage.",
+        "Late: Your role in the late doesn't vary much, protect your sidelanes ping them if you need to, in fights focus on talon when he jumps in. Engages should not be your focus, play to collect control and use your abilities as anti engage. Remember even at this stage of the game don't skip camps unless you need to as again, Talon will just use his 40 wall hops to accumulate a gold and xp lead which still matters significnatly at this stage of the game. Remember good vision will allow you to identify where Talon is coming from, making your job as counter engage much easier."
+      ]
+    },
+    "Trundle": {
+      "name": "Trundle",
+      "difficulty": "medium",
+      "portrait": "assets/champions/trundle/TrundleSquare.webp",
+      "portrait_match": "assets/champions/trundle/TrundlePortrait.webp",
+      "splash": "assets/champions/trundle/Skin_Splash_Classic_Trundle.webp",
+      "runesets": [
+        {
+          "label": "AP - Optimal",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "Celerity",
+            "Waterwalking"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
-            "KaenicRookern",
-            "Redemption"
+            "FrozenHeart"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Gauntlet 2nd is always good. Jak'Sho is a must-buy as your 4th or 5th item. Plated Steelcaps are OP but go Ionian if there isn't a major AD threat from the enemy. Spirit Visage can be skipped if the enemy team lacks AP damage threat, in that case go Randuins (Thornmail is bad, because Volibear doesn't apply anti-heal very well)."
+        },
+        {
+          "label": "AD - Only if you have to",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "JackOfAllTrades",
+            "MagicalFootwear"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "PlatedSteelcaps",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "DeathsDance"
+          ],
+          "explanation": "Tabis are always good. Spirit Visage can be skipped if the enemy team lacks AP damage threat. Death's Damce is bad unless the enemy has a assassin champion, Randuin's Omen if there is a fed ADC. Shojin is by far the best option against Trundle."
         }
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
+        "Advantage: Pre level 6, and after building Cosmic Drive.",
         "Important Mechanics: Use Q and W as auto cancels to maximize damage, use R to buffer trundle pillar, use cosmic drive movement speed to space trundle after he ults you (extremely important)",
+        "General Macro: Focus Trundle, kite out his R",
         "Early: The early game is extremely easy to play, you have a massive clear speed advantage, utilize this to make the first play on the map, remember because you have lethal tempo you will fist trundle at this stage of the game hard. On the second clear ideally you go for drake the only issue is that if you go for it without prio, trundle can be a nuisnace and you wouldn't be able to get the drake so just make sure you have the correct set up and go for it, if trundle comes you can pick him off easily he has almost no mobility and his tankiness at this stage of the game ie extremely negligible.",
         "Mid game: The mid game is where people make the most mistakes, Trundle is extremely strong after he's 6 and if you just stand there and fight him like you would 99% of other junglers you will lose. The best thing though, is if you go cosmic drive you will be able to drop an E on trundle and run away because you will have much faster movement speed than him. So, the best play you can make in fights is chunk trundle out with your combo then when he ults you insta run away with cosmic movement speed. When his ult finishes, reengage into combat with him and the skirmish will be significantly easier. The main thing you need to watch out for in mid game is to not let trundle stack drakes, when trundle stacks drakes you will have to run into him and doing this in and out gameplay will be significantly harder so try to put a priority on setting up objectives and the game will be easy.",
         "Late Game: In the late game trundle is a sitting duck, he is very immobile and this means going for picks on him are extremely easy. That being said if trundle ults you, you can't just stand there and brawl with him just like in mid game you need to space him and if that means you don't kill trundle, you can be happy with taking his ult- the only spell that gives him any relevance at this stage of the game. Again, being first to objectives is nice as it allows you to have that ability to space trundle if need be, making plays on sides are also well advised because trundle is kind of immobile and prefers to go for teamfights in the jungle with all of his team."
@@ -3789,8 +3998,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3798,27 +4007,63 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
+            "KaenicRookern"
+          ],
+          "explanation": "Core 6 are always built. Ionian boot is ahead, otherwise go Mercury Treads. Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho."
+        },
+        {
+          "label": "AD - Damage Follow Up",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "MagicalFootwear",
+            "JackOfAllTrades"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Core 5 are good. Mercury Treads and Plated Steelcaps are interchangeable. Spear of Shojin is the best option if you want more damage. Redemption if AOE Heal has value for your team. Kaenic and Randuin's if you need more resistances."
         }
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
+        "Advantage: In all out skirmishes, depending on who has hit their power spike earlier.",
         "Important Mechanics: Utilize Q and W as auto resets to maximize DPS, if he has passive don't go full combo off Q, he can buffer Stun with Awaken E (passive)",
+        "General Macro: Even matchup, differentiated by objectives and good fights.",
         "Early: The early game is just like a mirror, you clear at a slight faster pace but honestly it's irrelevant, the only thing you can do well here is try to play better in ganks and skirmishes. Personally I think focusing Udyr is a good mindset to have, he is not extremel;y tanky but he does a lot of dps if left alone, in skirmishes just focus him down and you will hard win. If you have prios, try to take the drake after your 2nd full clear, if you don't, Udyr will try to take the drake on 2nd clear try to deny him even if you are late to it as you should be stronger than him at skirmishes, and your single target burst is way higher so just focus one target and the skirmishes are won.",
-        "Mid game: In the mid game, your priorities don't change, you want to stack drakes as much as possible and if you ever skirmish, Udyr is an easy target to focus down and will make the fights signfiicantly easier. Despite your similarities, one thing you have a massive advantage over Udyr on is your ability to make dives happen on side lanes with your ult, you should try to utilize this advatnage as much as possible to get picks a minute before drake and herald. Even when objectives are down, instead of trying to go for even, 4v4 or 3v3 skirmishes mid, you can utilize your ult to go for creative plays on sides to try to create a numbers advantage and a gold lead for your team."
+        "Mid: In the mid game, your priorities don't change, you want to stack drakes as much as possible and if you ever skirmish, Udyr is an easy target to focus down and will make the fights signfiicantly easier. Despite your similarities, one thing you have a massive advantage over Udyr on is your ability to make dives happen on side lanes with your ult, you should try to utilize this advatnage as much as possible to get picks a minute before drake and herald. Even when objectives are down, instead of trying to go for even, 4v4 or 3v3 skirmishes mid, you can utilize your ult to go for creative plays on sides to try to create a numbers advantage and a gold lead for your team.",
+        "Late: In the late game Udyr is tanky and has significant amounts of damage, however just like you he is pretty useless when focused by an entire enemy team. This means you should put a priority on 2 things 1. try to get positioning for objectives, if you can do so you make him facecheck this means he can't react in time with awaken E but it also means your team has a very easy time focusing him down insta, 2. in fights you have to focus on peeling your carries, if you dive in you are going to get focused down if Udyr goes in he will get focused down. All in all remember your ability to make plays on side lanes with your ult is still equally strong here if not stronger so if you are losing teamfights go get your team an advantage through plays on side."
       ]
     },
     "Vi": {
@@ -3836,8 +4081,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3845,37 +4090,74 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
+            "KaenicRookern"
+          ],
+          "explanation": "Core 6 are always built. Ionian boot is ahead, otherwise go Plated Steelcaps or Mercury Treads. Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho."
+        },
+        {
+          "label": "AD - Damage Follow Up",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "MagicalFootwear",
+            "JackOfAllTrades"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Core 5 are good. Mercury Treads and Plated Steelcaps are interchangeable. Spear of Shojin is the best option if you want more damage. Redemption if AOE Heal has value for your team. Kaenic and Randuin's if you need more resistances."
         }
       ],
       "tips": [
         "Skill upgrade: 3 points Q, W max, Q max., E max",
+        "Advantage: Throughout the game if you fight smart",
         "Important Mechanics: Utilize Q and W as auto resets to maximize DPS, use R to buffer Vi Q and ult (do this when vi Ult is about to connect on you if you do too early you will miss timer)",
+        "General Macro: Don't overextend, maintain vision.",
         "Early: The early game is the easiest most straightforward part, you clear 30 seconds faster, you are 10x stronger in fights I think your main priority on your first clear should be to make a play on bot lane before Vi and then secure crab. On the second clear use your lane prios to start stacking drakes early as creating a wincon like dragon soul will make this game much more simpler as Vi thrives on games filled with chaos. If you don't have prio, gank then shift into drake it wont be hard to do so given your much stronger skirmishing power.",
-        "Mid game: In the mid game, stick to soul stacking, vision is pretty important especially around objectives as lazy set ups will alow for vi to utilize his strong pick potential from Q and R to catch your teammates in transition. In fights playing against Vi is extremely difficult, you need to be smart enough to not get caught by her ult and the way you do this is by ensuring you never overstep this allows you to do 2 things, first vi wont be able to ult you in a position where her team can focus you down while your team can't attack her. 2. If you are in a safe position and further away from Vi, if vi does in fact ult you, you have way more time to react to and buffer Vi's ult with your own Ult. On top of this, I would advise buying control wards and keeping trinket because Vi is really good at getting free picks in the mid game with her point and click CC, if you can get vision for your strongside to make sure he doesn't die it would be extremely valuable."
+        "Mid: In the mid game, stick to soul stacking, vision is pretty important especially around objectives as lazy set ups will alow for vi to utilize his strong pick potential from Q and R to catch your teammates in transition. In fights playing against Vi is extremely difficult, you need to be smart enough to not get caught by her ult and the way you do this is by ensuring you never overstep this allows you to do 2 things, first vi wont be able to ult you in a position where her team can focus you down while your team can't attack her. 2. If you are in a safe position and further away from Vi, if vi does in fact ult you, you have way more time to react to and buffer Vi's ult with your own Ult. On top of this, I would advise buying control wards and keeping trinket because Vi is really good at getting free picks in the mid game with her point and click CC, if you can get vision for your strongside to make sure he doesn't die it would be extremely valuable.",
+        "Late: In the late game, the main thing you need to watch out for is again Vi ult to catch you out, again the importance of staying aligned with your team and not overextending is extremely important. The rules of vision also apply however this is now mainly your support's job and sweeper is key, your job is now to arrive to objectives first because if Vi gains vision control he can be extremely dangerous through either multi man ults or an easy pick off with her combo. Obviously if you are first, you can do the same thing just as well if not better, your kit is built upon taking out one target quickly so if you force the enemy to facecheck, you will either get the objectives or a very favourable fight. Again just remember to warn your sidelaners if Vi can be looking for them because outside of teamfighting, Vi is also really good at getting picks on sides and pings can be extremely useful."
       ]
     },
     "Viego": {
       "name": "Viego",
+      "difficulty": "medium",
       "portrait": "assets/champions/viego/ViegoSquare.webp",
       "portrait_match": "assets/champions/viego/ViegoPortrait.webp",
       "splash": "assets/champions/viego/Skin_Splash_Classic_Viego.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AD - Carry Build",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -3883,8 +4165,39 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "JackOfAllTrades",
+            "MagicalFootwear"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "PlatedSteelcaps",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "RanduinsOmen",
+            "DeathsDance",
+            "SpearOfShojin"
+          ],
+          "explanation": "Tabis are OP in the matchup. Spirit Visage can be skipped if the enemy has no AP threats. Randuin's is a strong into Viego and negates alot of his damage. Shojin is the best pick if you need more damage or are ahead."
+        },
+        {
+          "label": "AD - Utility Build",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3893,36 +4206,40 @@
           ],
           "coreItems": [
             "BlackCleaver",
-            "MercuryTreads",
+            "BootsOfLucidity",
             "IcebornGauntlet",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Tabis are really good and are your best option, you can go Ionina if you're stomping. Spear of Shojin is the best to supplement your damage with this build. Otherwise Randuin's and Kaenic Rookern are both strong options depending on the enemy damage composition."
         }
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
+        "Advantage: You hold the advantage the whole game",
         "Important Mechanics: Chain Q with E + R to gurantee landing, use Q and W as auto resets for DPS",
+        "General Macro: Focus Viego, deny him his R reset",
         "Early: In the early game, it is actually quite evenly matched despite you having the advantage, The main thing you have to watch out for is reset opportunities for Viego, if one of your teammates are low, it is sensible to back off and identify it as a losing fight since Viego with resets is extremely strong. Along the same lines, you also want to make sure you don't overextend because Viego is extremely strong at bursting one target down, much like you. With your slightly faster clear speed, you should move into a position to look to chunk out Viego when he's looking for a play after his full clear. If enemy laners are not giving you free ganks, look to play for positioning and chunk out viego on both of the first 2 clears and try to translate it into kills and drake.",
-        "Mid: After your 1st item, you will be stronger than Viego unless you go the cosmic drive build, this means you should take any fight you can if they are on your terms keep in mind however that Viego does have a lot of burst so if you misposition or get caught by enemy CC, you can still die but in skirmishes and 1v1s unless viego gets a reset you decimate him and can almost burst him 100 to 0 off your combo. It's also smart in skirmishes to not insta R unless viego already casts his ult because it will allow you to match his ult's reposition and not give him a way out. In addition, remember to ALWAYS FOCUS VIEGO in fights, not only is he extremely squishy, but if you allow him to get a reset he can completely take over a fight, take him out early and quick and you will win the fights easy. As always, objective control and soul stacking is important, fights around objectives also benefit you more because Viego is really strong in random fights that are full chaotic due to the ease in which he gets resets."
+        "Mid: After your 1st item, you will be stronger than Viego unless you go the cosmic drive build, this means you should take any fight you can if they are on your terms keep in mind however that Viego does have a lot of burst so if you misposition or get caught by enemy CC, you can still die but in skirmishes and 1v1s unless viego gets a reset you decimate him and can almost burst him 100 to 0 off your combo. It's also smart in skirmishes to not insta R unless viego already casts his ult because it will allow you to match his ult's reposition and not give him a way out. In addition, remember to ALWAYS FOCUS VIEGO in fights, not only is he extremely squishy, but if you allow him to get a reset he can completely take over a fight, take him out early and quick and you will win the fights easy. As always, objective control and soul stacking is important, fights around objectives also benefit you more because Viego is really strong in random fights that are full chaotic due to the ease in which he gets resets.",
+        "Late: At this point in the game Viego is at his most dangerous because of how much burst he has that will alow him to get a reset. So, to counteract this just play fights smart, make sure you have info of where viego is and the second viego jumps in to try to secure a reset or dish out damage, you are fisting him. Again, just like in other matchups but even more important here, you have to arrive at objectives early because this will allow you to gain info on viego and deny enemy info and easy resets off of you and your team. Lastly, remember NEVER ULT IN unless the fight is clearly won, ulting in is a very easy way to give over a reset as it will leave you stranded so until you kill viego or the fight is won, play patient."
       ]
     },
     "Warwick": {
       "name": "Warwick",
+      "difficulty": "easy",
       "portrait": "assets/champions/warwick/WarwickSquare.webp",
       "portrait_match": "assets/champions/warwick/WarwickPortrait.webp",
       "splash": "assets/champions/warwick/Skin_Splash_Classic_Warwick.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -3930,8 +4247,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3939,25 +4256,56 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
-            "KaenicRookern",
-            "Redemption"
+            "FrozenHeart"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Gauntlet 2nd is always good. Jak'Sho is a must-buy as your 4th or 5th item. Plated Steelcaps are OP but go Ionian if there isn't a major AD threat from the enemy. Spirit Visage can be skipped if the enemy team lacks AP damage threat, in that case go Randuins (Thornmail is bad, because Volibear doesn't apply anti-heal very well)."
+        },
+        {
+          "label": "AD - Only if you have to",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "JackOfAllTrades",
+            "MagicalFootwear"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "PlatedSteelcaps",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "DeathsDance"
+          ],
+          "explanation": "Tabis is OP vs Multiple On-hit champions, Mercury Treads is a must buy if they have alot of CC. Shojin is really good if you need more damage or are ahead. If you need more tankiness go Randuin's or Kaenic Rookern, depending on the enemy damage composition. Redemption is a really good buy if you are unsure of what to buy."
         }
       ],
       "tips": [
         "Skill upgrade: 3 points Q , W max, Q max, E max",
+        "Advantage: Throughout the game unless you are low HP",
         "Important Mechanics: Use Q and W as auto cancels to maximize damage, use R to slightly buffer (reposition cause you can't fully buffer) warwick E + R",
+        "General Macro: Smart fights, build camp lead",
         "Early: The early game is extremely easy to play, you have a massive clear speed advantage (35 seconds), utilize this to make the first play on the map, remember because you have lethal tempo you will fist warwick at this stage of the game hard if you start the fight above 50% hp (warwick passive threshold). On the second clear because you are so much faster, you should either be able to go drake with your teams prios or utilize your clear speed advantage to make a play on either bot and mid, force prio then translate that into the dragon. In skirmishes focus warwick down first, when he E's you should kiteback and go back in after his E falls off this is because he has a fear and takes reduced damage with E, without it he is pretty squishy and you will easily fist him.",
         "Mid game: The mid game is where people make the most mistakes, often times people will go for random fights, reckless engages and get caught by warwicks single target crowd control spells, give over free kills and a lead. So, the best way to play this matchup is you need to be disciplined, this means using your faster clear speed to set up for objectives and play around them. In teamfights warwick is extremely useless, it's only the 1v1 and 2v2 skirmishes that he's useful (even though you are still stronger than him in these if you are at an even pace). The easiest way to gain an advantage in this matchup is just to not skip your camps, warwick clears extremely slow while you do the opposite, you can easily get a 1-2 level lead just by clearing your camps and then making a play while warwick has to make the decision between either skipping his camps or not helping his team. If you ignore your camps and just go for reckless fights, you are giving away a huge advantage you have over warwick.",
         "Late Game: In the late game Warwick is a sitting duck, he is immobile and honestly has no place in teamfights, he will have to go in eventually and when he does just make sure you cancel his ult on whichever one of your teammates he's ulting and he will be completely useless. Do try to focus him down unless there is a much better target because he can still be a nuisance with his crowd control and he's also just really easy to kill for you. If your carries are low remember warwick ult gets increased range and he gets increased movement speed, so make sure you are in position to deny warwick an engage onto them. Lastly, just like in mid game use your faster clear speed and MS to get to objective set ups first and force them to facecheck into you, play the game objective focused and you will not struggle in this matchup at all if you fight recklessly, you will be dancing to warwick's tune."
@@ -3965,12 +4313,13 @@
     },
     "Wukong": {
       "name": "Wukong",
+      "difficulty": "medium",
       "portrait": "assets/champions/wukong/WukongSquare.webp",
       "portrait_match": "assets/champions/wukong/WukongPortrait.webp",
       "splash": "assets/champions/wukong/Skin_Splash_Classic_Wukong.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AP - Optimal",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -3978,8 +4327,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -3987,25 +4336,56 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
-            "KaenicRookern",
-            "Redemption"
+            "FrozenHeart"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Gauntlet 2nd is always good. Jak'Sho is a must-buy as your 4th or 5th item. Plated Steelcaps are OP but go Ionian if there isn't a major AD threat from the enemy. Spirit Visage can be skipped if the enemy team lacks AP damage threat, in that case go Randuins (Thornmail is bad, because Volibear doesn't apply anti-heal very well)."
+        },
+        {
+          "label": "AD - Only if you have to",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "JackOfAllTrades",
+            "MagicalFootwear"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "PlatedSteelcaps",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "DeathsDance"
+          ],
+          "explanation": "Tabis is OP vs Multiple On-hit champions, Mercury Treads is a must buy if they have alot of CC. Shojin is really good if you need more damage or are ahead. If you need more tankiness go Randuin's or Kaenic Rookern, depending on the enemy damage composition. Redemption is a really good buy if you are unsure of what to buy."
         }
       ],
       "tips": [
         "Skill upgrade: 3 points Q , W max, Q max, E max",
+        "Advantage: Hard win for you pre 6.",
         "Important Mechanics: Use Q and W as auto cancels to maximize damage, use R to buffer wukong knockup. Chain E + R with Q stun offensively since Wukong has W",
+        "General Macro: Shut down wukong, focus objectives",
         "Early: The early game is easy to play, you have a significant clear speed advantage (30 seconds) and wukong can never contest you in a skirmish. On the first clear look to secure an uncontested bot gank and look to try to fight on skirmish with the prio you get. You should always go for drake on the 2nd clear because wukong is useless without ult so if you can force him to fights at this point in the game it is a big win for you.",
         "Mid game: The mid game is where the matchup is largely decided, sure you might have the individual skirmishing advantage, but wukong ult allows him to disable you for like 3 seconds while his team bursts you down. So, there a few key techniques you can use, 1 never overextend, much like Vi if you overextend wukong ult and black cleaver will shred you and cook you especially before your tanky items are purchased. 2, get to objectives before wukong, wukong's passive allows him to get stacks of armor based on how many spells and autos he uses, if you let him get to objectives first, he is able to stack his passive and be a lot tankier for the fights so if you get there first, you deny him this opportunity and force him to fight with 0 stacks of passive. Finally, keep your ult as an engage tool only if the enemy is very out of position, otherwise if you can save your ult to buffer Wukong ult either to reposition yourself to avoid damage, or just to buffer it to maximize your damage and minimize CC, it will serve you well.",
         "Late Game: In the late game Wukong is a teamfight menace, but only if you allow him to do so. You can mitigate Wukong's teamfighting ability by denying him the opportunities of flanks and effectively MARKING him. You can do this by setting up good vision making sure you use your superior clear speed to get vision first, you can also do this by putting yourself in his shoes, how will he look to engage, when he W's make sure you are instantly Qing and ready to stun him as soon as he jumps in so he can't unleash his combo. Wukong is not a tanky champion, if you focus on peeling him from your carries instead of going in, you will find the late game to be significantly easier."
@@ -4013,12 +4393,13 @@
     },
     "Xin Zhao": {
       "name": "Xin Zhao",
+      "difficulty": "medium",
       "portrait": "assets/champions/xinzhao/Xin_ZhaoSquare.webp",
       "portrait_match": "assets/champions/xinzhao/Xin_ZhaoPortrait.webp",
       "splash": "assets/champions/xinzhao/Skin_Splash_Classic_Xin_Zhao.webp",
       "runesets": [
         {
-          "label": "Solo Frontline",
+          "label": "AD - Carry Build",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -4026,8 +4407,39 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "JackOfAllTrades",
+            "MagicalFootwear"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "PlatedSteelcaps",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "RanduinsOmen",
+            "DeathsDance",
+            "SpearOfShojin"
+          ],
+          "explanation": "Tabis are OP in the matchup. Spirit Visage can be skipped if the enemy has no AP threats. Randuin's is a strong into Xin Zhao as an additional armor item. Shojin is the best pick if you need more damage or are ahead."
+        },
+        {
+          "label": "AD - Utility Build",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -4036,30 +4448,34 @@
           ],
           "coreItems": [
             "BlackCleaver",
-            "MercuryTreads",
+            "BootsOfLucidity",
             "IcebornGauntlet",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Tabis are really good and are your best option, you can go Ionian if you're stomping. Spear of Shojin is the best to supplement your damage with this build. Otherwise Randuin's and Kaenic Rookern are both strong options depending on the enemy damage composition."
         }
       ],
       "tips": [
         "Skill upgrade: 3 points Q, W max, Q max, E max",
+        "Advantage: Throughout the game",
         "Important Mechanics: Use R to buffer xin knockup from Q or R knockback, use Q + W as auto resets to maximize damage",
+        "General Macro: Don't overextend and soul stack.",
         "Early: In the early game, you are 30s faster on clear in skirmishes you are also much stronger, this means you should look to go for a gank on either mid or bot after your first clear as it's effectively a free gank xin can't match. In the second clear look to go for drake if you have prio, if you don't have prio go gank into drake, just like the first clear xin wont be able to gank on your timer and full clear the same time, abuse this by looking for an unmatachable gank then look for drake. If you do skirmish, make sure you don't waste Q and have it in the fight, also make sure you don't overextend because xin's only threat is on you if you overextend.",
-        "Mid: After your 1st item, unless you go cosmic, you will be stronger than xin but he does have the damage to shred you if you overextend. In matchups like these, objective control is extremely important, use your faster clear to create ganks and pressure and try to translate this to being first at the objective and having good set up for the objective. One common mistake people make is they forget about clearing especially vs slow clearing champs like Xin and they just make it a fiesta, remember a key advantage you have vs Xin is your clear speed, abuse this, maximize Xp and Gold then look for plays. In skirmishes wait for xin to jump in and focus him, if you go in it's easy for him to play because his ult allows him to not take damage from your team, if he goes in however, your team has a much easier time damaging him."
+        "Mid: After your 1st item, unless you go cosmic, you will be stronger than xin but he does have the damage to shred you if you overextend. In matchups like these, objective control is extremely important, use your faster clear to create ganks and pressure and try to translate this to being first at the objective and having good set up for the objective. One common mistake people make is they forget about clearing especially vs slow clearing champs like Xin and they just make it a fiesta, remember a key advantage you have vs Xin is your clear speed, abuse this, maximize Xp and Gold then look for plays. In skirmishes wait for xin to jump in and focus him, if you go in it's easy for him to play because his ult allows him to not take damage from your team, if he goes in however, your team has a much easier time damaging him.",
+        "Late: At this point in the game Xin zhao is a strong teamfighter prehaps more so than you, your job in fights is just to mitigate him. To mitigate him you need to be smart with your cooldowns, try to use your Q to stall out his ult, deny him entrances on the back line and big ults and just stick on xin in fights. Personally just like in the mid game, I find being passive and waiting for xin to make the mistake to be more effective but going for short trades with your Q + combo to bait out the xin zhao ult and then exiting is a common strategy you can use. A big advantage you have here is the ability to dive on side, xin is a champ that loves grouping so if he npc goes and arams, go to side lane and dive enemy, get yourself a numbers advantage and then play the map."
       ]
     },
     "Zac": {
       "name": "Zac",
+      "difficulty": "medium",
       "portrait": "assets/champions/zac/ZacSquare.webp",
       "portrait_match": "assets/champions/zac/ZacPortrait.webp",
       "splash": "assets/champions/zac/Skin_Splash_Classic_Zac.webp",
@@ -4073,8 +4489,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -4082,27 +4498,63 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
+            "KaenicRookern"
+          ],
+          "explanation": "Core 6 are always built. Ionian boots are best, Mercury Treads don't affect Zac's airborne abilities. Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho."
+        },
+        {
+          "label": "AD - Damage Follow Up",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "MagicalFootwear",
+            "JackOfAllTrades"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Core 5 are good. Mercury Treads good but doesnt work on zac cc (can go tabis or even ionian but bad with JOAT). Spear of Shojin is the best option if you want more damage. Redemption if AOE Heal has value for your team. Kaenic and Randuin's if you need more resistances."
         }
       ],
       "tips": [
         "Skill upgrade: 3 points Q, W max, Q max, E max",
+        "Advantage: Before 1st item, skirmishes on your terms",
         "Important Mechanics: Utilize R to buffer zac Q E and R (knockups/knockbacks), use Q and W as auto resets to maximize DPS, hold your E on zac passive resurrection until they are grouped up in hitbox",
+        "General Macro: Be first to plays and set up good vision",
         "Early: The early game is extremely simple you have a faster clear by 15 seconds use it to make the first gank on bot or mid lane which cant be matched by zac and gain scuttle crab control. On the second clear if you have prios look to go for drake afer you finish clearing as soul stacking is extremely op to counteract Zac's scaling nature, remember to not stand clumped up as it is the only way zac can be useful in these skirmishes. In fights it's a good idea to just look to kill zac insta, hes a tank but not tanky at all at this stage of the game. Kill him and you take away a lot of cc that can impact fights. Remember when goin for ganks you track where zac can be because his E slingshotallows him to match ganks he is far away from.",
-        "Mid game: In the mid game, your priorities lie in soul stacking still, random fights especially when your ult is down is horrible, Zac's heavy CCing kit makes it so that unless you have ult, if you ever misposition you are just going to be CCd for 40 years and die. So, make sure everyfight you take is good or you are simply giving Zac the change to snowball into the game, in fights try to insta stun zac so he can't get a nasty engage off right after he jumps in, if this means you can CC, it's worth it if you defend your team. Vision control is mega important into zac as his E allows him to come from many blind spots and punish overextending laners, this isn't just on sides but is especially dangerous on mid, I think the best places to put wards are actually on zac's camps so you can identify approximately where he will be just by looking at the way he cleared his camps. In fights don't go in unless you see Zac as if you go in, you give Zac a massived engage opportunity on your team or an easy pick opportunity on you."
+        "Mid: In the mid game, your priorities lie in soul stacking still, random fights especially when your ult is down is horrible, Zac's heavy CCing kit makes it so that unless you have ult, if you ever misposition you are just going to be CCd for 40 years and die. So, make sure everyfight you take is good or you are simply giving Zac the change to snowball into the game, in fights try to insta stun zac so he can't get a nasty engage off right after he jumps in, if this means you can CC, it's worth it if you defend your team. Vision control is mega important into zac as his E allows him to come from many blind spots and punish overextending laners, this isn't just on sides but is especially dangerous on mid, I think the best places to put wards are actually on zac's camps so you can identify approximately where he will be just by looking at the way he cleared his camps. In fights don't go in unless you see Zac as if you go in, you give Zac a massived engage opportunity on your team or an easy pick opportunity on you.",
+        "Late: In the late game Zac is extremely tanky so focusing him down might not be the best idea if you get to pick, if he jumps onto your backline however, you have to focus on peeling him off with your Q  E or R Slow. To ensure you get good fights, vision control and being earlier to objectives is again, extremely improtant as it allows oyu to identify any brave, zac engages onto your team. If you get caught remember to not greed your ult because if you do, you will land in a 6 second chain cc combo and live to regret it. Remember to cover your sidelaners and use pings frequently to try to track zac and keep your teammates aware."
       ]
     },
     "Zed": {
@@ -4120,8 +4572,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "Celerity",
+            "Waterwalking"
           ],
           "shards": [
             "AttackSpeed",
@@ -4129,37 +4581,23 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
-            "MercuryTreads",
+            "CosmicDrive",
+            "BootsOfLucidity",
             "IcebornGauntlet",
+            "NavoriFlickerblade",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
+            "MercuryTreads",
+            "PlatedSteelcaps",
             "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
-            "KaenicRookern",
-            "Redemption"
+            "KaenicRookern"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
-        }
-      ],
-      "tips": [
-        "Skill upgrade: Q max, W max, E max",
-        "Important Mechanics: Use Q W as auto resets to maximize damage, chain E + R with Q to ensure you land them",
-        "Early: The early game is the toughest part of the game, Zed significantly outpaces your on clear (2:56 full clear speed) and this means if you clear slow or mess up your clear, he can invade you on your last camp and steal it. So, you need to be hyperfocused on clear, remember in this matchup if you get to the mid game somewhat even it is extremely free, if you dont he can snowball. It's very important you find out where zed starts, and ping the opposite lane (the lane he's pathing to) at 2:55 that he can be there and gank, this will take away zeds strength of using his quick first clear to cheese gank. In skirmishes, if you are even level you will win, if you have prio look to start soul stacking early because it gives you an easy win con that will stop your team from dying random deaths in the mid game . Remember if you do end up doing drake that Zed can one shot the drake from like 1100 hp so avoid letting him in the pit if possible.",
-        "Mid game: In the mid game, you are stronger than Zed after each item spike but until your 2nd item spike, or tabis, he can deal damage to you if you get CCd or especially if you are low because his passive allows him to deal double the damage to you if you are below 50% hp. So, because Zed is both mobile and can take you out easily if you are low, it's EXTREMELY important you don't extend plays too much, rememeber your playpoints and once you secure them insta exit the play, if you try to overchase after you already secure the play you want, zed will be able to punish you hard. Macro wise , just like other matchups, try to play around objectives, zed's mobility allows him to thrive in chaos where he can get picks and snowball so if you keep the game simple, straightforward and around objectives the game will be extremely easy. In skirmishes, focus zed first, he kind of has to jump in to be useful so what I like doing is holding my Q and as soon as he lands from his ult, I insta stun him and burst him because this positioning is where is the most vulnerable (he is the furthest overextended and right next to your team)"
-      ]
-    },
-    "Zyra": {
-      "name": "Zyra",
-      "portrait": "assets/champions/zyra/ZyraSquare.webp",
-      "portrait_match": "assets/champions/zyra/ZyraPortrait.webp",
-      "splash": "assets/champions/zyra/Skin_Splash_Classic_Zyra.webp",
-      "runesets": [
+          "explanation": "Core 6 are always built. Ionian boots if ahead, otherwise go with appropriate boots (Mercury Treads mostly). Go for Kaenic or Randuin's if you want more resistances. Replacing either Flickerblade or Jak'Sho with Mercur Treads in this matchup is also good."
+        },
         {
-          "label": "Solo Frontline",
+          "label": "AD - Damage Follow Up",
           "primary": [
             "LethalTempo",
             "Triumph",
@@ -4167,8 +4605,8 @@
             "LastStand"
           ],
           "secondary": [
-            "Conditioning",
-            "Unflinching"
+            "MagicalFootwear",
+            "JackOfAllTrades"
           ],
           "shards": [
             "AttackSpeed",
@@ -4176,27 +4614,113 @@
             "Health"
           ],
           "coreItems": [
-            "BlackCleaver",
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "PlatedSteelcaps",
+            "SpearOfShojin",
+            "RanduinsOmen",
+            "KaenicRookern",
+            "Redemption"
+          ],
+          "explanation": "Core 5 are good. You can skip Jak'Sho if you want another armor item instead (Death's Dance for burst and Randuin's Omen to counter a strong ADC). Spear of Shojin is the best option if you want more damage and are ahead. Plated Steelcaps are broken in this matchup and are must build."
+        }
+      ],
+      "tips": [
+        "Skill upgrade: Q max, W max, E max",
+        "Advantage: If you stay even, always",
+        "Important Mechanics: Use Q W as auto resets to maximize damage, chain E + R with Q to ensure you land them",
+        "General Macro: Be reactive, dont drop camps",
+        "Early: The early game is the toughest part of the game, Zed significantly outpaces your on clear (2:56 full clear speed) and this means if you clear slow or mess up your clear, he can invade you on your last camp and steal it. So, you need to be hyperfocused on clear, remember in this matchup if you get to the mid game somewhat even it is extremely free, if you dont he can snowball. It's very important you find out where zed starts, and ping the opposite lane (the lane he's pathing to) at 2:55 that he can be there and gank, this will take away zeds strength of using his quick first clear to cheese gank. In skirmishes, if you are even level you will win, if you have prio look to start soul stacking early because it gives you an easy win con that will stop your team from dying random deaths in the mid game . Remember if you do end up doing drake that Zed can one shot the drake from like 1100 hp so avoid letting him in the pit if possible.",
+        "Mid: In the mid game, you are stronger than Zed after each item spike but until your 2nd item spike, or tabis, he can deal damage to you if you get CCd or especially if you are low because his passive allows him to deal double the damage to you if you are below 50% hp. So, because Zed is both mobile and can take you out easily if you are low, it's EXTREMELY important you don't extend plays too much, rememeber your playpoints and once you secure them insta exit the play, if you try to overchase after you already secure the play you want, zed will be able to punish you hard. Macro wise , just like other matchups, try to play around objectives, zed's mobility allows him to thrive in chaos where he can get picks and snowball so if you keep the game simple, straightforward and around objectives the game will be extremely easy. In skirmishes, focus zed first, he kind of has to jump in to be useful so what I like doing is holding my Q and as soon as he lands from his ult, I insta stun him and burst him because this positioning is where is the most vulnerable (he is the furthest overextended and right next to your team)",
+        "Late: In the late game, your role in skirmishes is the same, hoild your Q till zed ults in then insta stun him and burst you down. The late game is pretty straightforward tbh, play to peel your backline and try to set up good vision so you can identify any sneaky entrances Zed might take to try to take out your backline. One thing that you need to watch out for in the late game is Zed's mobility, this means if you are winning fights, you need to be aware of zed going through side lanes to try to pick your teammates off to create a numbers advantage."
+      ]
+    },
+    "Zyra": {
+      "name": "Zyra",
+      "difficulty": "medium",
+      "portrait": "assets/champions/zyra/ZyraSquare.webp",
+      "portrait_match": "assets/champions/zyra/ZyraPortrait.webp",
+      "splash": "assets/champions/zyra/Skin_Splash_Classic_Zyra.webp",
+      "runesets": [
+        {
+          "label": "AP or Solo Frontline",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "Celerity",
+            "Waterwalking"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "CosmicDrive",
             "MercuryTreads",
             "IcebornGauntlet",
             "SpiritVisage",
             "JakShoTheProtean"
           ],
           "adaptiveItems": [
-            "RanduinsOmen",
-            "SteraksGage",
-            "OverlordsBloodmail",
+            "BootsOfLucidity",
+            "NavoriFlickerblade",
+            "AbyssalMask",
+            "ForceOfNature",
+            "DeadMansPlate"
+          ],
+          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+        },
+        {
+          "label": "AD or Damage Follow Up",
+          "primary": [
+            "LethalTempo",
+            "Triumph",
+            "LegendHaste",
+            "LastStand"
+          ],
+          "secondary": [
+            "MagicalFootwear",
+            "JackOfAllTrades"
+          ],
+          "shards": [
+            "AttackSpeed",
+            "AdaptiveForce",
+            "Health"
+          ],
+          "coreItems": [
+            "TrinityForce",
+            "MercuryTreads",
+            "DeadMansPlate",
+            "SpiritVisage",
+            "JakShoTheProtean"
+          ],
+          "adaptiveItems": [
+            "SpearOfShojin",
+            "GuardianAngel",
             "KaenicRookern",
             "Redemption"
           ],
-          "explanation": "Build Visage before Gauntlet if 3+ AP or a fed AP threat. Randuin's for armor, Sterak's for tenacity—Overlord's is very strong. Kaenic Rookern vs heavy AP, Redemption counters Amumu R well."
+          "explanation": "Merc Treads are OP if you're facing multiple sources of crowd control. Spirit Visage typically comes before Dead Man’s, unless you're up against a heavy AD comp. Kaenic Rookern is excellent into heavy AP teams, which often include champs like Ekko. Spear of Shojin is valuable if you're ahead or if your team lacks damage."
         }
       ],
       "tips": [
         "Skill upgrade: Q max, W max, E max",
+        "Advantage: Until late game, when enemy has set up",
         "Important Mechanics: Use your R to buffer Zyra ult knockup, you can also slight buffer Zyra E with your ult. Always Q to chase Zyra even if she has E because even if you get hit it will reset your Q",
+        "General Macro: Be Decisive, Crowd her",
         "Early: Zyra has a clear speed advantage over you (2:56 full clear), if you clear slow she can invade you on your last camp so be aware of this when clearing. In this matchup you kind of have to path bot because if you don't she can just easily dive your bot lane with plants in between two towers. In this matchup you kind of have to just try to stay in the game early on, after your clears always look to skirmish Zyra, you are way more useful in skirmishes and if you have a good flash angle on her which can allow your team to follow up, it is almost always a guranteed kill. This is one of the matchups where drake is hard to get early but its more than enough if you just deny Zyra from taking the drake, keep trinket throughout the early game and put it on drakes to deny Zyra from sneaking drakes.",
-        "Mid: After your 1st item if you went with the cosmic build, the game will be easier, use cosmic movement speed to try to get on top of zyra and if you get on top of her, you simply can't lose the skirmishes. Remember, champions like Zyra struggle a lot when you are decisive and crowd her, this will be difficult if you are late to objectives because, to get to her you will have to take significant damage from the plants she has set up. This is why it is key, around objectives or skirmishes, you are the first party there, this will deny Zyra the ability to set up plants that can chunk you out so hard it makes it not worth for you to run into her. If you do get chunked out by zyra and have camps up, your W is really good to heal you back up so you can leave a fight, heal off a camp then re-enter a fight."
+        "Mid: After your 1st item if you went with the cosmic build, the game will be easier, use cosmic movement speed to try to get on top of zyra and if you get on top of her, you simply can't lose the skirmishes. Remember, champions like Zyra struggle a lot when you are decisive and crowd her, this will be difficult if you are late to objectives because, to get to her you will have to take significant damage from the plants she has set up. This is why it is key, around objectives or skirmishes, you are the first party there, this will deny Zyra the ability to set up plants that can chunk you out so hard it makes it not worth for you to run into her. If you do get chunked out by zyra and have camps up, your W is really good to heal you back up so you can leave a fight, heal off a camp then re-enter a fight.",
+        "Late: At this point in the game Zyra is extremely strong in fights, your goal still doesn't change however, you need to crowd her in fights and not give her the freedom to spam cast her spells without having to click back. Hopefully by this time you are decently tanky and despite Zyras build, the champion does struggle to kill you before you kill her if you can just get on top of her with ult. Again the most important thing in this matchup is to get to plays first, don't let her set up plants and vision and force her to having to facecheck into you. The best thing about this matchup is that for zyra to spawn plants, her range is the exact same as your ult range, this means if she facechecks you, even if she snares you if you slight buffer it with R she eithr has to flash or die. Just remember to be decisive in this matchup and it will be significantly easier."
       ]
     }
   }
